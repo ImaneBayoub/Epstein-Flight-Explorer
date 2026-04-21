@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="fr">
+<html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -19,21 +19,20 @@
       <div id="step-intro" class="onboarding-step">
         <div class="step-intro-content">
           <div class="step-text-box">
-            <h1>Les Vols d'Epstein</h1>
-            <p class="step-lead">Explorez plus de 25 ans de données de vol du jet privé. Découvrez les connexions entre les passagers et les routes parcourues à travers le monde.</p>
+            <h1>Epstein Flights</h1>
+            <p class="step-lead">Explore over 25 years of private jet flight data. Discover connections between passengers and routes across the world.</p>
           </div>
-          <p class="step-hint">Cliquez sur l'avion pour commencer</p>
-        </div>
+          <p class="step-hint">Click on the plane to begin</p>        </div>
       </div>
       
       <div id="step-chord" class="onboarding-step">
         <div class="step-content-wrapper">
           <div class="step-text-box left">
-            <h2>Réseau de Co-Voyage</h2>
-            <p class="step-lead">Ce diagramme montre les personnes qui ont voyagé ensemble. Chaque arc représente une personne et chaque lien montre un vol partagé.</p>
+            <h2>Co-Travel Network</h2>
+            <p class="step-lead">This diagram shows people who traveled together. Each arc represents a person and each link represents a shared flight.</p>
             <div id="mini-legend"></div>
-            <p class="step-hint step-hint-sub">Survolez les arcs pour voir les détails - Cliquez pour filtrer par catégorie</p>
-            <p class="step-hint">Cliquez sur l'avion pour continuer</p>
+            <p class="step-hint step-hint-sub">Hover over arcs to see details - Click to filter by category</p>
+            <p class="step-hint">Click on the plane to continue</p>
           </div>
           <div class="step-viz-box right">
             <svg id="mini-chord"></svg>
@@ -44,14 +43,14 @@
       <div id="step-map" class="onboarding-step">
         <div class="step-content-wrapper">
           <div class="step-text-box left">
-            <h2>La Carte Interactive</h2>
-            <p class="step-lead">Tous les vols sont visualisés sur la carte mondiale. Les lignes pointillées représentent les routes de vol.</p>
+            <h2>Interactive Map</h2>
+            <p class="step-lead">All flights are displayed on the world map. Dotted lines represent flight routes.</p>
             <ul class="feature-list">
-              <li>Cliquez sur une route pour voir les passagers du vol</li>
-              <li>Utilisez le diagramme chord pour filtrer par catégorie</li>
-              <li>Filtrez par période ou cliquez sur l'île d'Epstein pour voir les vols arrivant ou partant de l'île</li>
+              <li>Click on a route to see flight passengers</li>
+              <li>Use the chord diagram to filter by category</li>
+              <li>Filter by date or click on Epstein's island to view related flights</li>
             </ul>
-            <p class="step-hint">Cliquez sur l'avion pour explorer</p>
+            <p class="step-hint">Click on the plane to explore</p>
           </div>
           <div class="step-viz-box right">
             <svg id="mini-map"></svg>
@@ -64,7 +63,7 @@
       <img id="onboarding-plane" src="data/ryanlerch-Airplane-Roadsign-2.svg" alt="Avion"/>
     </div>
     
-    <button id="onboarding-skip">Passer l'intro</button>
+    <button id="onboarding-skip">Skip intro</button>
   </div>
 
   <div id="tutorial-overlay">
@@ -78,16 +77,16 @@
         <span class="tutorial-step-dot"></span>
       </div>
       <div id="tutorial-message">
-        <h3 id="tutorial-title">Étape 1</h3>
-        <p id="tutorial-text">Cliquez sur le calendrier pour changer la date</p>
+        <h3 id="tutorial-title">Step 1</h3>
+        <p id="tutorial-text">Click on the calendar to change the date</p>
       </div>
       <div id="tutorial-hint">
         <svg viewBox="0 0 24 24" class="tutorial-hand-icon">
           <path d="M9,11.24V7.5C9,6.12 10.12,5 11.5,5S14,6.12 14,7.5v3.74c1.21-0.81 2-2.18 2-3.74C16,5.01 13.99,3 11.5,3S7,5.01 7,7.5C7,9.06 7.79,10.43 9,11.24z M18.84,15.87l-4.54-2.26c-0.17-0.07-0.35-0.11-0.54-0.11H13v-6c0-0.83-0.67-1.5-1.5-1.5S10,6.67 10,7.5v10.74l-3.43-0.72c-0.08-0.01-0.15-0.03-0.24-0.03c-0.31,0-0.59,0.13-0.79,0.33l-0.79,0.8l4.94,4.94c0.27,0.27 0.65,0.44 1.06,0.44h6.79c0.75,0 1.33-0.55 1.44-1.28l0.75-5.27c0.01-0.07 0.02-0.14 0.02-0.2C19.75,16.63 19.37,16.09 18.84,15.87z"/>
         </svg>
-        <span id="tutorial-hint-text">Cliquez sur l'élément surligné pour continuer</span>
+        <span id="tutorial-hint-text">Click on the highlighted element to continue</span>
       </div>
-      <button id="tutorial-skip">Passer le tutoriel</button>
+      <button id="tutorial-skip">Skip tutorial</button>
     </div>
   </div>
 
@@ -98,18 +97,18 @@
       <div class="hint-arrow">
         <svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
       </div>
-      <div class="hint-text">Filtrez par période</div>
+      <div class="hint-text">Filter by date</div>
     </div>
     
     <div class="hint hint-flights" id="hint-flights">
       <div class="hint-arrow">
         <svg viewBox="0 0 24 24"><path d="M21 16v-2l-8-5V3.5c0-.83-.67-1.5-1.5-1.5S10 2.67 10 3.5V9l-8 5v2l8-2.5V19l-2 1.5V22l3.5-1 3.5 1v-1.5L13 19v-5.5l8 2.5z"/></svg>
       </div>
-      <div class="hint-text">Cliquez sur une route</div>
+      <div class="hint-text">Click on a route</div>
     </div>
     
     <div class="hint hint-chord" id="hint-chord">
-      <div class="hint-text">Cliquez pour filtrer</div>
+      <div class="hint-text">Click to filter</div>
       <div class="hint-arrow">
         <svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
       </div>
@@ -122,14 +121,14 @@
     
     <div id="selection-info">
       <span id="selection-text"></span>
-      <button id="clear-selection">Effacer</button>
+      <button id="clear-selection">Clear</button>
     </div>
 
     <div id="date-controls">
-      <h3>Filtrer par date</h3>
+      <h3>Filter by date</h3>
       <div class="date-range">
         <div class="date-input-group">
-          <span class="label-text">Du</span>
+          <span class="label-text">From</span>
           <div class="date-selects" id="date-start-selects">
             <select id="date-start-day" class="date-select"></select>
             <select id="date-start-month" class="date-select"></select>
@@ -138,7 +137,7 @@
         </div>
         <span class="date-separator">→</span>
         <div class="date-input-group">
-          <span class="label-text">Au</span>
+          <span class="label-text">To</span>
           <div class="date-selects" id="date-end-selects">
             <select id="date-end-day" class="date-select"></select>
             <select id="date-end-month" class="date-select"></select>
@@ -147,29 +146,29 @@
         </div>
       </div>
       <div class="date-stats">
-        <span id="flight-count">0</span> vols affichés
+        <span id="flight-count">0</span> flights displayed
       </div>
-      <button id="reset-dates">Réinitialiser</button>
+      <button id="reset-dates">Reset</button>
     </div>
 
-    <button id="epstein-island-filter" class="epstein-btn">Île Epstein</button>
+    <button id="epstein-island-filter" class="epstein-btn">Epstein Island</button>
 
     <div id="chord-panel">
       <div id="chord-panel-header">
-        <span>Réseau de co-voyage</span>
+        <span>Co-travel network</span>
         <div class="controls">
           <div class="search-container">
-            <input type="text" id="chord-search" placeholder="Rechercher une personne..." autocomplete="off" />
+            <input type="text" id="chord-search" placeholder="Search for a person..." />
             <div id="chord-search-results" class="search-results"></div>
           </div>
-          <button id="expand-chord">Agrandir</button>
-          <button id="reset-chord">Réinitialiser</button>
+          <button id="expand-chord">Expand</button>
+          <button id="reset-chord">Reset</button>
         </div>
       </div>
       <div id="chord-chart-container">
         <svg id="chord-chart"></svg>
         <div id="category-legend">
-          <h4>Catégories</h4>
+          <h4>Categories</h4>
           <div id="legend-items"></div>
         </div>
       </div>
@@ -188,9 +187,9 @@
         <button id="close-flight-detail">&times;</button>
       </div>
       <div id="flight-detail-nav">
-        <button id="prev-flight">&larr; Précédent</button>
+        <button id="prev-flight">← Previous</button>
         <span id="flight-counter"></span>
-        <button id="next-flight">Suivant &rarr;</button>
+        <button id="next-flight">Next →</button>
       </div>
       <div id="shared-flights-info"></div>
       <div id="airplane-container">
@@ -198,7 +197,6 @@
         <div id="passengers-on-plane"></div>
       </div>
     </div>
-
   <script type="module" src="js/main.js"></script>
 </body>
 </html>

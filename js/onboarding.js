@@ -359,7 +359,7 @@ function renderMiniChord() {
 
   const data = buildMiniChordData()
   if (!data.people.length || data.people.length < 2) {
-    svg.html('<text x="50%" y="50%" text-anchor="middle" fill="#94a3b8">Pas assez de données</text>')
+    svg.html('<text x="50%" y="50%" text-anchor="middle" fill="#94a3b8">Not enough data</text>')
     return
   }
 
@@ -539,8 +539,8 @@ function renderMiniChord() {
       const person2 = limitedPeople[d.target.index]
       
       tooltipEl.innerHTML = `
-        <strong>${person1?.name || '?'}</strong> <span style="color: #64748b;">et</span> <strong>${person2?.name || '?'}</strong>
-        <br><span style="color: #94a3b8; font-size: 11px;">${d.source.value || d.target.value} vol(s) ensemble</span>
+        <strong>${person1?.name || '?'}</strong> <span style="color: #64748b;">and</span> <strong>${person2?.name || '?'}</strong>
+        <br><span style="color: #94a3b8; font-size: 11px;">${d.source.value || d.target.value} shared flight(s)</span>
       `
       tooltipEl.style.opacity = '1'
       tooltipEl.style.left = (event.clientX + 15) + 'px'

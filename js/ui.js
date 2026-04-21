@@ -13,23 +13,23 @@ function getFilterInfoHtml(dateStart, dateEnd) {
   
   const startStr = dateStart ? formatShortDate(dateStart).split(' ')[0] : 'min'
   const endStr = dateEnd ? formatShortDate(dateEnd).split(' ')[0] : 'max'
-  filterParts.push(`Période: ${startStr} → ${endStr}`)
+  filterParts.push(`Period: ${startStr} → ${endStr}`)
   
   if (getEpsteinIslandFilter()) {
-    filterParts.push('Île Epstein')
+    filterParts.push('Epstein Island')
   }
   
   const category = getSelectedCategory()
   if (category) {
-    filterParts.push(`Catégorie: ${category}`)
+    filterParts.push(`Category: ${category}`)
   }
   
   const person = getSelectedPerson()
   if (person) {
-    filterParts.push(`Personne: ${person}`)
+    filterParts.push(`Person: ${person}`)
   }
   
-  return filterParts.length > 0 ? filterParts.join(' • ') : 'Tous vols'
+  return filterParts.length > 0 ? filterParts.join(' • ') : 'All flights'
 }
 
 function renderSharedFlightInfo(infoEl, currentFlight, totalFlights, dateStart, dateEnd) {
@@ -43,39 +43,39 @@ function renderSharedFlightInfo(infoEl, currentFlight, totalFlights, dateStart, 
   
   if (currentDisplayMode === 'chord') {
     const flightDate = currentFlight?.Date ? formatShortDate(currentFlight.Date) : ''
-    let origin = currentFlight?.Origin || 'Inconnu'
-    let dest = currentFlight?.Destination || 'Inconnu'
+    let origin = currentFlight?.Origin || 'Unknown'
+    let dest = currentFlight?.Destination || 'Unknown'
     
     infoEl.innerHTML += `
       <div class="passenger-names" style="font-weight:bold">${origin} ↔ ${dest}</div>
       ${flightDate ? `<div style="color:#94a3b8;font-size:11px;margin-top:2px">${flightDate}</div>` : ''}
-      <div style="color:#fbbf24;font-size:12px;font-weight:bold;margin-top:4px">${totalFlights} vol${totalFlights > 1 ? 's' : ''} ensemble</div>
+      <div style="color:#fbbf24;font-size:12px;font-weight:bold;margin-top:4px">${totalFlights} shared flight${totalFlights > 1 ? 's' : ''}</div>
     `
   } else if (currentDisplayMode === 'route') {
     const flightDate = currentFlight?.Date ? formatShortDate(currentFlight.Date) : ''
-    const origin = currentFlight?.Origin || 'Inconnu'
-    const dest = currentFlight?.Destination || 'Inconnu'
+    const origin = currentFlight?.Origin || 'Unknown'
+    const dest = currentFlight?.Destination || 'Unknown'
     
     infoEl.innerHTML += `
       <div class="passenger-names" style="font-weight:bold">${origin} → ${dest}</div>
       ${flightDate ? `<div style="color:#94a3b8;font-size:11px;margin-top:2px">${flightDate}</div>` : ''}
-      <div style="color:#fbbf24;font-size:12px;font-weight:bold;margin-top:4px">${totalFlights} vol${totalFlights > 1 ? 's' : ''}</div>
+      <div style="color:#fbbf24;font-size:12px;font-weight:bold;margin-top:4px">${totalFlights} flight${totalFlights > 1 ? 's' : ''}</div>
     `
   } else if (currentDisplayMode === 'person') {
     const flightDate = currentFlight?.Date ? formatShortDate(currentFlight.Date) : ''
-    const origin = currentFlight?.Origin || 'Inconnu'
-    const dest = currentFlight?.Destination || 'Inconnu'
+    const origin = currentFlight?.Origin || 'Unknown'
+    const dest = currentFlight?.Destination || 'Unknown'
     
     infoEl.innerHTML += `
       <div class="passenger-names" style="font-weight:bold">${origin} → ${dest}</div>
       ${flightDate ? `<div style="color:#94a3b8;font-size:11px;margin-top:2px">${flightDate}</div>` : ''}
     `
   } else if (sharedPassengerPair.length > 0) {
-    const flightText = totalFlights === 1 ? '1 vol' : `${totalFlights} vols`
+    const flightText = totalFlights === 1 ? '1 flight' : `${totalFlights} flights`
     
     const flightDate = currentFlight?.Date ? formatShortDate(currentFlight.Date) : ''
-    const origin = currentFlight?.Origin || 'Inconnu'
-    const dest = currentFlight?.Destination || 'Inconnu'
+    const origin = currentFlight?.Origin || 'Unknown'
+    const dest = currentFlight?.Destination || 'Unknown'
     
     infoEl.innerHTML += `
       <div class="passenger-names" style="font-weight:bold">${origin} → ${dest}</div>
@@ -162,8 +162,8 @@ function renderFlight(flight, allFlightsSameDate) {
   const flightNav = document.getElementById('flight-detail-nav')
 
   if (currentDisplayMode === 'route') {
-    const totalVols = sharedFlights.length
-    const flightText = totalVols === 1 ? '1 vol' : `${totalVols} vols`
+    const totalFlights = sharedFlights.length
+    const flightText = totalFlights === 1 ? '1 flight' : `${totalFlights} flights`
     flightDetailDate.textContent = flightText
     flightDetailRoute.textContent = route.replace(' → ', ' ↔ ')
   } else if (currentDisplayMode === 'chord') {
@@ -175,8 +175,8 @@ function renderFlight(flight, allFlightsSameDate) {
     }
     const name1 = getDisplayName(sharedPassengerPair[0])
     const name2 = getDisplayName(sharedPassengerPair[1])
-    const totalVols = sharedFlights.length
-    const flightText = totalVols === 1 ? '1 vol' : `${totalVols} vols`
+    const totalFlights = sharedFlights.length
+    const flightText = totalFlights === 1 ? '1 flight' : `${totalFlights} flights`
     flightDetailDate.textContent = flightText
     flightDetailRoute.textContent = `${name1} ↔ ${name2}`
   } else if (currentDisplayMode === 'person') {
@@ -187,8 +187,8 @@ function renderFlight(flight, allFlightsSameDate) {
       return matched ? matched.displayName || matched.matchedName || name : name
     }
     const name1 = getDisplayName(sharedPassengerPair[0])
-    const totalVols = sharedFlights.length
-    const flightText = totalVols === 1 ? '1 vol' : `${totalVols} vols`
+    const totalFlights = sharedFlights.length
+    const flightText = totalFlights === 1 ? '1 flight' : `${totalFlights} flights`
     flightDetailDate.textContent = flightText
     flightDetailRoute.textContent = name1
   } else {
@@ -197,7 +197,7 @@ function renderFlight(flight, allFlightsSameDate) {
   }
   
   if (sharedFlights.length > 1 && flightNav) {
-    flightCounter.textContent = `Vol ${currentFlightIndex + 1} / ${sharedFlights.length}`
+    flightCounter.textContent = `Flight ${currentFlightIndex + 1} / ${sharedFlights.length}`
     if (prevBtn) prevBtn.disabled = currentFlightIndex === 0
     if (nextBtn) nextBtn.disabled = currentFlightIndex === sharedFlights.length - 1
     flightNav.style.display = 'flex'
@@ -362,7 +362,7 @@ function updateSharedFlightsInfo(flights, periodStart = null, periodEnd = null) 
   const currentFlight = sharedFlights[currentFlightIndex]
   const totalFlights = sharedFlights.length
   
-renderSharedFlightInfo(infoEl, currentFlight, totalFlights, periodStart, periodEnd)
+  renderSharedFlightInfo(infoEl, currentFlight, totalFlights, periodStart, periodEnd)
 }
 
 export function hideFlightDetail() {

@@ -6,54 +6,54 @@ let originalDates = { start: null, end: null }
 const tutorialSteps = [
   {
     id: 'step-calendar',
-    title: 'Étape 1 : Le Calendrier',
-    text: 'Sélectionnez une nouvelle date',
+    title: 'Step 1: The Calendar',
+    text: 'Select a new date',
     targetType: 'calendar',
     targetId: 'date-controls'
   },
   {
     id: 'step-epstein',
-    title: 'Étape 2 : Île Epstein',
-    text: 'Cliquez sur ce bouton pour filtrer les vols vers l\'île de Jeffrey Epstein',
+    title: 'Step 2: Epstein Island',
+    text: 'Click this button to filter flights to Jeffrey Epstein’s island',
     targetType: 'epstein',
     targetId: 'epstein-island-filter'
   },
   {
     id: 'step-flight',
-    title: 'Étape 3 : Les Vols',
-    text: 'Cliquez sur une route de vol',
+    title: 'Step 3: Flights',
+    text: 'Click on a flight route',
     targetType: 'flight',
     targetId: 'map'
   },
   {
     id: 'step-close-detail',
-    title: 'Étape 3b : Fermer',
-    text: 'Cliquez sur X pour fermer',
+    title: 'Step 3b: Close',
+    text: 'Click the X to close',
     targetType: 'close-detail',
     targetId: 'close-flight-detail'
   },
   {
     id: 'step-chord',
-    title: 'Étape 4 : Le Réseau',
-    text: 'Cliquez sur une catégorie',
+    title: 'Step 4: The Network',
+    text: 'Click on a category',
     targetType: 'chord',
     targetId: 'chord-panel'
   },
   {
     id: 'step-expand',
-    title: 'Étape 5 : Agrandir',
-    text: 'Cliquez sur "Agrandir"',
+    title: 'Step 5: Expand',
+    text: 'Click "Expand"',
     targetType: 'expand',
     targetId: 'expand-chord'
   },
   {
     id: 'step-ribbon',
-    title: 'Étape 6 : Les Liens',
-    text: 'Cliquez sur un lien - voyez leurs vols en commun',
+    title: 'Step 6: Connections',
+    text: 'Click on a link to see shared flights',
     targetType: 'ribbon',
     targetId: 'chord-panel'
   }
-]
+];
 
 const targetSelectors = {
   epstein: '#epstein-island-filter',
@@ -247,7 +247,7 @@ function showStep(stepIndex) {
   
   if (title) title.textContent = step.title
   if (text) text.textContent = step.text
-  if (hintText) hintText.textContent = 'Cliquez sur l\'élément en vert'
+  if (hintText) hintText.textContent = 'Click on the highlighted element'
   
   progressDots.forEach((dot, i) => {
     dot.classList.remove('active', 'completed')

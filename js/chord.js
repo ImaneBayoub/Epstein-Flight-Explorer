@@ -314,10 +314,10 @@ export function updateSelectionInfo() {
   if (selectedPerson || selectedCategory) {
     selectionInfo.classList.add('visible')
     if (selectedPerson) {
-      selectionText.innerHTML = `Personne sélectionnée: <strong>${selectedPerson}</strong>`
-    } else {
-      selectionText.innerHTML = `Catégorie sélectionnée: <strong>${selectedCategory}</strong>`
-    }
+      selectionText.innerHTML = `Selected person: <strong>${selectedPerson}</strong>`
+      } else {
+        selectionText.innerHTML = `Selected category: <strong>${selectedCategory}</strong>`
+      }
   } else {
     selectionInfo.classList.remove('visible')
   }
