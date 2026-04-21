@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="PR">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a1220" />
+      <stop offset="100%" stop-color="#18253a" />
+    </linearGradient>
+    <linearGradient id="ring" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f6d47a" />
+      <stop offset="100%" stop-color="#d4a843" />
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" rx="64" fill="url(#bg)" />
+  <circle cx="128" cy="128" r="86" fill="none" stroke="url(#ring)" stroke-width="10" />
+  <text x="128" y="146" fill="#f6d47a" font-family="Arial, sans-serif" font-size="72" font-weight="700" text-anchor="middle">PR</text>
+</svg>
