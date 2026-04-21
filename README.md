@@ -2,31 +2,6 @@
 
 Interactive visualization of Jeffrey Epstein's flight records and co-travel network.
 
-## Data Setup
-
-The datasets are not included in this repository.
-
-Before running the project:
-
-1. Download the datasets from Google Drive:  
-    [Download datasets](https://drive.google.com/drive/folders/1SfKXYb4AqcBad4SdHWFNoH0awbMgR5zu?usp=drive_link)
-
-2. Download both folders:
-   - `data/`
-   - `images_persons/`
-
-3. Extract them
-
-4. Place them at the root of the project so the structure looks like this:
-```
-Epstein-Flight-Explorer/
-├── data/
-├── images_persons/
-├── index.html
-├── js/
-├── css/
-```
-
 
 ## Quick Start
 
