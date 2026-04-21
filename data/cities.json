@@ -1,0 +1,5494 @@
+{
+  "abuja": {
+    "lat": 9.06853,
+    "lon": 7.48375
+  },
+  "accra": {
+    "lat": 5.55602,
+    "lon": -0.1969
+  },
+  "addis ababa": {
+    "lat": 9.0054,
+    "lon": 38.7636
+  },
+  "albuquerque": {
+    "lat": 35.048315,
+    "lon": -106.616689
+  },
+  "amsterdam": {
+    "lat": 52.3105,
+    "lon": 4.7683
+  },
+  "antigua": {
+    "lat": 17.1167,
+    "lon": -61.7833
+  },
+  "aruba": {
+    "lat": 12.5211,
+    "lon": -69.9685
+  },
+  "athens": {
+    "lat": 37.9364,
+    "lon": 23.9472
+  },
+  "atlanta": {
+    "lat": 33.6407,
+    "lon": -84.4277
+  },
+  "auckland": {
+    "lat": -37.0082,
+    "lon": 174.785
+  },
+  "azores": {
+    "lat": 38.582102,
+    "lon": -28.697398
+  },
+  "bahamas": {
+    "lat": 25.0343,
+    "lon": -77.3963
+  },
+  "bangkok": {
+    "lat": 13.69,
+    "lon": 100.7501
+  },
+  "barbados": {
+    "lat": 13.0742,
+    "lon": -59.4925
+  },
+  "barcelona": {
+    "lat": 41.2971,
+    "lon": 2.0785
+  },
+  "bedford": {
+    "lat": 42.4693,
+    "lon": -71.2859
+  },
+  "bermuda": {
+    "lat": 32.4519,
+    "lon": -64.6986
+  },
+  "berlin": {
+    "lat": 52.5596,
+    "lon": 13.2887
+  },
+  "boca raton": {
+    "lat": 26.375,
+    "lon": -80.1
+  },
+  "boston": {
+    "lat": 42.3601,
+    "lon": -71.0589
+  },
+  "brussels": {
+    "lat": 50.9014,
+    "lon": 4.4844
+  },
+  "cape town": {
+    "lat": -33.9716,
+    "lon": 18.4232
+  },
+  "casablanca": {
+    "lat": 33.3687,
+    "lon": -7.5865
+  },
+  "cayman islands": {
+    "lat": 19.3133,
+    "lon": -81.2546
+  },
+  "charlotte": {
+    "lat": 35.2271,
+    "lon": -80.8431
+  },
+  "chicago": {
+    "lat": 41.8781,
+    "lon": -87.6298
+  },
+  "cleveland": {
+    "lat": 41.516028,
+    "lon": -81.681975
+  },
+  "copenhagen": {
+    "lat": 55.618,
+    "lon": 12.6508
+  },
+  "costa rica": {
+    "lat": 9.7489,
+    "lon": -83.7534
+  },
+  "dallas": {
+    "lat": 32.7767,
+    "lon": -96.797
+  },
+  "denver": {
+    "lat": 39.7392,
+    "lon": -104.9903
+  },
+  "detroit": {
+    "lat": 42.3314,
+    "lon": -83.0458
+  },
+  "dubai": {
+    "lat": 25.2532,
+    "lon": 55.3657
+  },
+  "dublin": {
+    "lat": 53.4264,
+    "lon": -6.2499
+  },
+  "edinburgh": {
+    "lat": 55.9489,
+    "lon": -3.3628
+  },
+  "faroe islands": {
+    "lat": 61.8926,
+    "lon": -6.9118
+  },
+  "fort lauderdale": {
+    "lat": 26.1224,
+    "lon": -80.1434
+  },
+  "frankfurt": {
+    "lat": 50.0379,
+    "lon": 8.5622
+  },
+  "geneva": {
+    "lat": 46.2381,
+    "lon": 6.1094
+  },
+  "gulfstream": {
+    "lat": 31.0779,
+    "lon": -81.4343
+  },
+  "hamburg": {
+    "lat": 53.5511,
+    "lon": 9.9937
+  },
+  "hong kong": {
+    "lat": 22.308,
+    "lon": 113.9185
+  },
+  "honolulu": {
+    "lat": 21.3187,
+    "lon": -157.9225
+  },
+  "houston": {
+    "lat": 29.9902,
+    "lon": -95.3368
+  },
+  "istanbul": {
+    "lat": 41.0082,
+    "lon": 28.9784
+  },
+  "jackson hole": {
+    "lat": 43.5999,
+    "lon": -110.7461
+  },
+  "jamaica": {
+    "lat": 18.1096,
+    "lon": -77.2975
+  },
+  "johannesburg": {
+    "lat": -26.1367,
+    "lon": 28.2413
+  },
+  "kigali": {
+    "lat": -1.9686,
+    "lon": 30.0606
+  },
+  "las vegas": {
+    "lat": 36.084,
+    "lon": -115.1537
+  },
+  "lisbon": {
+    "lat": 38.7742,
+    "lon": -9.1342
+  },
+  "london": {
+    "lat": 51.47,
+    "lon": -0.4614
+  },
+  "los angeles": {
+    "lat": 33.9416,
+    "lon": -118.4085
+  },
+  "lusaka": {
+    "lat": -15.3877,
+    "lon": 28.3222
+  },
+  "madrid": {
+    "lat": 40.4983,
+    "lon": -3.5676
+  },
+  "malaga": {
+    "lat": 36.7213,
+    "lon": -4.4203
+  },
+  "manchester": {
+    "lat": 53.4808,
+    "lon": -2.2426
+  },
+  "maputo": {
+    "lat": -25.9652,
+    "lon": 32.6086
+  },
+  "marrakesh": {
+    "lat": 31.6295,
+    "lon": -8.0029
+  },
+  "marthas vineyard": {
+    "lat": 41.3912,
+    "lon": -70.6154
+  },
+  "melbourne": {
+    "lat": -37.669,
+    "lon": 144.841
+  },
+  "miami": {
+    "lat": 25.7959,
+    "lon": -80.287
+  },
+  "milan": {
+    "lat": 45.4642,
+    "lon": 9.19
+  },
+  "minneapolis": {
+    "lat": 44.9778,
+    "lon": -93.265
+  },
+  "montreal": {
+    "lat": 45.5017,
+    "lon": -73.5633
+  },
+  "morristown": {
+    "lat": 40.7968,
+    "lon": -74.4518
+  },
+  "moscow": {
+    "lat": 55.7558,
+    "lon": 37.6173
+  },
+  "munich": {
+    "lat": 48.3538,
+    "lon": 11.7861
+  },
+  "nairobi": {
+    "lat": -1.2921,
+    "lon": 36.8219
+  },
+  "nantucket": {
+    "lat": 41.2835,
+    "lon": -70.1033
+  },
+  "naples": {
+    "lat": 26.151287,
+    "lon": -81.776311
+  },
+  "new york": {
+    "lat": 40.6413,
+    "lon": -73.7781
+  },
+  "newark": {
+    "lat": 40.6895,
+    "lon": -74.1745
+  },
+  "nice": {
+    "lat": 43.6589,
+    "lon": 7.2155
+  },
+  "oslo": {
+    "lat": 60.1939,
+    "lon": 11.1004
+  },
+  "palm beach": {
+    "lat": 26.6832,
+    "lon": -80.0953
+  },
+  "panama": {
+    "lat": 9.0676,
+    "lon": -79.4289
+  },
+  "paris": {
+    "lat": 49.0097,
+    "lon": 2.5479
+  },
+  "philadelphia": {
+    "lat": 39.9526,
+    "lon": 75.1652
+  },
+  "phoenix": {
+    "lat": 33.4484,
+    "lon": -112.074
+  },
+  "pittsburgh": {
+    "lat": 40.4406,
+    "lon": -79.9959
+  },
+  "port-au-prince": {
+    "lat": 18.5944,
+    "lon": -72.3268
+  },
+  "puerto rico": {
+    "lat": 18.2208,
+    "lon": -66.5901
+  },
+  "rabat": {
+    "lat": 34.0209,
+    "lon": -6.8329
+  },
+  "reno": {
+    "lat": 39.5296,
+    "lon": -119.8138
+  },
+  "rio de janeiro": {
+    "lat": -22.8099,
+    "lon": -43.2505
+  },
+  "rome": {
+    "lat": 41.8003,
+    "lon": 12.2389
+  },
+  "san diego": {
+    "lat": 32.7338,
+    "lon": -117.1933
+  },
+  "san francisco": {
+    "lat": 37.7749,
+    "lon": -122.4194
+  },
+  "san juan": {
+    "lat": 18.4394,
+    "lon": -66.0018
+  },
+  "santa barbara": {
+    "lat": 34.4208,
+    "lon": -119.702
+  },
+  "s\u00e3o paulo": {
+    "lat": -23.5505,
+    "lon": -46.6333
+  },
+  "scottsdale": {
+    "lat": 33.4942,
+    "lon": -111.891
+  },
+  "seattle": {
+    "lat": 47.6062,
+    "lon": -122.3321
+  },
+  "seoul": {
+    "lat": 37.4602,
+    "lon": 126.4407
+  },
+  "shanghai": {
+    "lat": 31.1434,
+    "lon": 121.805
+  },
+  "singapore": {
+    "lat": 1.3644,
+    "lon": 103.9915
+  },
+  "stockholm": {
+    "lat": 59.6519,
+    "lon": 17.9186
+  },
+  "st martin": {
+    "lat": 18.07,
+    "lon": -63.0532
+  },
+  "st thomas": {
+    "lat": 18.3372,
+    "lon": -64.9755
+  },
+  "sydney": {
+    "lat": -33.9399,
+    "lon": 151.1753
+  },
+  "tel aviv": {
+    "lat": 32.0853,
+    "lon": 34.7818
+  },
+  "tenerife": {
+    "lat": 28.2916,
+    "lon": -16.6291
+  },
+  "tokyo": {
+    "lat": 35.5494,
+    "lon": 139.7798
+  },
+  "toronto": {
+    "lat": 43.6777,
+    "lon": -79.6248
+  },
+  "trinidad": {
+    "lat": 10.6918,
+    "lon": -61.2225
+  },
+  "teterboro": {
+    "lat": 40.8475,
+    "lon": -74.0608
+  },
+  "vienna": {
+    "lat": 48.2082,
+    "lon": 16.3738
+  },
+  "virgin islands": {
+    "lat": 18.3358,
+    "lon": -64.8963
+  },
+  "warsaw": {
+    "lat": 52.2297,
+    "lon": 21.0122
+  },
+  "washington": {
+    "lat": 38.9072,
+    "lon": -77.0369
+  },
+  "west palm beach": {
+    "lat": 26.7093,
+    "lon": -80.1342
+  },
+  "z\u00fcrich": {
+    "lat": 47.4522,
+    "lon": 8.5642
+  },
+  "27k airport": {
+    "lat": 13.666583,
+    "lon": -89.242526
+  },
+  "aby airport": {
+    "lat": 31.535858,
+    "lon": -84.196616
+  },
+  "acy airport": {
+    "lat": 39.452259,
+    "lon": -74.573168
+  },
+  "ads airport": {
+    "lat": 39.218096,
+    "lon": -87.368074
+  },
+  "als airport": {
+    "lat": 40.267359,
+    "lon": -74.820567
+  },
+  "ama airport": {
+    "lat": -4.10066,
+    "lon": 141.6693
+  },
+  "anh airport": {
+    "lat": -14.6425,
+    "lon": -59.449101
+  },
+  "apc airport": {
+    "lat": 38.212663,
+    "lon": -122.279791
+  },
+  "apf airport": {
+    "lat": 26.151287,
+    "lon": -81.776311
+  },
+  "ase airport": {
+    "lat": 42.2179,
+    "lon": 12.7246
+  },
+  "asf airport": {
+    "lat": 39.276239,
+    "lon": -74.575022
+  },
+  "asg airport": {
+    "lat": -43.90432,
+    "lon": 171.801664
+  },
+  "atw airport": {
+    "lat": 44.256811,
+    "lon": -88.515478
+  },
+  "avo airport": {
+    "lat": 27.592497,
+    "lon": -81.527903
+  },
+  "baf airport": {
+    "lat": 42.163027,
+    "lon": -72.715317
+  },
+  "bct airport": {
+    "lat": 41.604695,
+    "lon": -93.616178
+  },
+  "bfi airport": {
+    "lat": 47.53,
+    "lon": -122.3495
+  },
+  "bkl airport": {
+    "lat": 41.516028,
+    "lon": -81.681975
+  },
+  "bmi airport": {
+    "lat": 40.477915,
+    "lon": -88.924213
+  },
+  "bqk airport": {
+    "lat": 31.256334,
+    "lon": -81.464814
+  },
+  "bur airport": {
+    "lat": 34.2006,
+    "lon": -118.358901
+  },
+  "cno airport": {
+    "lat": 33.9746,
+    "lon": -117.638832
+  },
+  "cnw airport": {
+    "lat": 31.6389,
+    "lon": -97.074887
+  },
+  "cqy airport": {
+    "lat": 28.795,
+    "lon": -81.3421
+  },
+  "crq airport": {
+    "lat": -28.4465,
+    "lon": -50.133
+  },
+  "cxy airport": {
+    "lat": 36.9677,
+    "lon": -76.2464
+  },
+  "cze airport": {
+    "lat": 10.9178,
+    "lon": -53.1261
+  },
+  "cyril e. king airport": {
+    "lat": 18.3373,
+    "lon": -64.9785
+  },
+  "cyril e. king": {
+    "lat": 18.3373,
+    "lon": -64.9785
+  },
+  "cyril king": {
+    "lat": 18.3373,
+    "lon": -64.9785
+  },
+  "cyril king airport": {
+    "lat": 18.3373,
+    "lon": -64.9785
+  },
+  "daa airport": {
+    "lat": 38.6651,
+    "lon": -77.4537
+  },
+  "dcs airport": {
+    "lat": 42.2289,
+    "lon": -83.3538
+  },
+  "dij airport": {
+    "lat": 47.2689,
+    "lon": 5.0837
+  },
+  "dkk airport": {
+    "lat": 42.4915,
+    "lon": -79.2855
+  },
+  "dnaa airport": {
+    "lat": 16.9,
+    "lon": -90.3656
+  },
+  "drt airport": {
+    "lat": 29.3702,
+    "lon": -99.1772
+  },
+  "dsm airport": {
+    "lat": 41.5355,
+    "lon": -93.648
+  },
+  "dts airport": {
+    "lat": 41.2609,
+    "lon": -81.817
+  },
+  "een airport": {
+    "lat": 42.8984,
+    "lon": -72.27
+  },
+  "epg airport": {
+    "lat": 40.2875,
+    "lon": -82.8446
+  },
+  "ewr airport": {
+    "lat": 40.6895,
+    "lon": -74.1745
+  },
+  "fajs airport": {
+    "lat": -26.1369,
+    "lon": -28.246
+  },
+  "fact airport": {
+    "lat": -33.9716,
+    "lon": -18.6033
+  },
+  "feg airport": {
+    "lat": 40.228,
+    "lon": 66.9578
+  },
+  "fhp airport": {
+    "lat": 32.7368,
+    "lon": -114.8816
+  },
+  "fqma airport": {
+    "lat": -32.1344,
+    "lon": -26.3551
+  },
+  "fty airport": {
+    "lat": 33.7791,
+    "lon": -84.5213
+  },
+  "fxe airport": {
+    "lat": 26.1976,
+    "lon": -80.2416
+  },
+  "geg airport": {
+    "lat": 47.6205,
+    "lon": -117.5329
+  },
+  "gxa airport": {
+    "lat": 32.8345,
+    "lon": -117.1055
+  },
+  "hao airport": {
+    "lat": 39.3635,
+    "lon": -84.5225
+  },
+  "hbe airport": {
+    "lat": 30.9306,
+    "lon": 31.6681
+  },
+  "hex airport": {
+    "lat": 19.1709,
+    "lon": -104.8939
+  },
+  "hhr airport": {
+    "lat": 33.9235,
+    "lon": -118.3335
+  },
+  "hhz airport": {
+    "lat": 33.4695,
+    "lon": 131.8784
+  },
+  "hkg airport": {
+    "lat": 22.3084,
+    "lon": 113.9147
+  },
+  "hln airport": {
+    "lat": 46.6053,
+    "lon": -111.9891
+  },
+  "hou airport": {
+    "lat": 29.6456,
+    "lon": -95.3413
+  },
+  "hpn airport": {
+    "lat": 41.067,
+    "lon": -73.7074
+  },
+  "hry airport": {
+    "lat": 40.9037,
+    "lon": -73.4156
+  },
+  "hryr airport": {
+    "lat": -1.9687,
+    "lon": 30.1345
+  },
+  "hsv airport": {
+    "lat": 34.6373,
+    "lon": -86.775
+  },
+  "hth airport": {
+    "lat": 38.0542,
+    "lon": -117.1017
+  },
+  "hwd airport": {
+    "lat": 37.6597,
+    "lon": -122.1168
+  },
+  "ict airport": {
+    "lat": 37.6499,
+    "lon": -97.4309
+  },
+  "ilm airport": {
+    "lat": 34.2707,
+    "lon": -77.9219
+  },
+  "iln airport": {
+    "lat": 39.4269,
+    "lon": -83.8114
+  },
+  "ipl airport": {
+    "lat": 32.8342,
+    "lon": -115.5722
+  },
+  "jax airport": {
+    "lat": 30.4931,
+    "lon": -81.6879
+  },
+  "jfk airport": {
+    "lat": 40.6413,
+    "lon": -73.7781
+  },
+  "jln airport": {
+    "lat": 37.1533,
+    "lon": -94.4987
+  },
+  "jna airport": {
+    "lat": 37.3866,
+    "lon": -122.4735
+  },
+  "jot airport": {
+    "lat": 41.3176,
+    "lon": -88.1421
+  },
+  "jpa airport": {
+    "lat": -7.1525,
+    "lon": -34.949
+  },
+  "jqa airport": {
+    "lat": 18.0838,
+    "lon": -69.2213
+  },
+  "jvl airport": {
+    "lat": 42.6067,
+    "lon": -89.0517
+  },
+  "jxn airport": {
+    "lat": 42.258,
+    "lon": -84.4679
+  },
+  "kbe airport": {
+    "lat": 37.518,
+    "lon": -122.2516
+  },
+  "klh airport": {
+    "lat": 37.237,
+    "lon": -121.316
+  },
+  "kls airport": {
+    "lat": 46.1486,
+    "lon": -122.9482
+  },
+  "kmr airport": {
+    "lat": 42.1561,
+    "lon": -71.2853
+  },
+  "kth airport": {
+    "lat": 57.7569,
+    "lon": -154.9605
+  },
+  "ktn airport": {
+    "lat": 55.35,
+    "lon": -133.0833
+  },
+  "kts airport": {
+    "lat": 65.3306,
+    "lon": -166.9692
+  },
+  "l7y airport": {
+    "lat": 39.9088,
+    "lon": -84.201
+  },
+  "lax airport": {
+    "lat": 33.9416,
+    "lon": -118.4085
+  },
+  "lcq airport": {
+    "lat": -32.0142,
+    "lon": -28.4456
+  },
+  "lej airport": {
+    "lat": 51.1304,
+    "lon": 13.754
+  },
+  "lfa airport": {
+    "lat": 31.0678,
+    "lon": -100.9272
+  },
+  "lfk airport": {
+    "lat": 31.2343,
+    "lon": -94.7504
+  },
+  "lgb airport": {
+    "lat": 33.8179,
+    "lon": -118.1516
+  },
+  "lhr airport": {
+    "lat": 51.47,
+    "lon": -0.4614
+  },
+  "lih airport": {
+    "lat": 22.017,
+    "lon": -159.339
+  },
+  "lmt airport": {
+    "lat": 42.37,
+    "lon": -121.725
+  },
+  "lnd airport": {
+    "lat": 43.033,
+    "lon": -108.7288
+  },
+  "lns airport": {
+    "lat": 40.1218,
+    "lon": -76.2959
+  },
+  "lpaz airport": {
+    "lat": 38.7169,
+    "lon": -27.091
+  },
+  "lrf airport": {
+    "lat": 34.914,
+    "lon": -91.7625
+  },
+  "lsz airport": {
+    "lat": 43.8564,
+    "lon": 14.2904
+  },
+  "lts airport": {
+    "lat": 34.8199,
+    "lon": -99.0529
+  },
+  "lur airport": {
+    "lat": 64.536,
+    "lon": -165.5792
+  },
+  "lvk airport": {
+    "lat": 37.7209,
+    "lon": -121.8163
+  },
+  "lws airport": {
+    "lat": 46.375,
+    "lon": -117.01
+  },
+  "maa airport": {
+    "lat": 39.1739,
+    "lon": -88.4108
+  },
+  "mac airport": {
+    "lat": 32.8367,
+    "lon": -83.4703
+  },
+  "mao airport": {
+    "lat": -3.0386,
+    "lon": -60.0497
+  },
+  "mcc airport": {
+    "lat": 38.6672,
+    "lon": -121.2994
+  },
+  "mci airport": {
+    "lat": 39.2976,
+    "lon": -94.7139
+  },
+  "mco airport": {
+    "lat": 28.4312,
+    "lon": -81.308
+  },
+  "mdw airport": {
+    "lat": 41.7868,
+    "lon": -87.7524
+  },
+  "mia airport": {
+    "lat": 25.7959,
+    "lon": -80.287
+  },
+  "mib airport": {
+    "lat": 48.4186,
+    "lon": -101.4149
+  },
+  "miv airport": {
+    "lat": 39.2295,
+    "lon": -74.5776
+  },
+  "mms airport": {
+    "lat": 34.9762,
+    "lon": -90.6974
+  },
+  "mnm airport": {
+    "lat": 41.9802,
+    "lon": -87.6309
+  },
+  "mob airport": {
+    "lat": 30.6265,
+    "lon": -88.0854
+  },
+  "moc airport": {
+    "lat": -19.8368,
+    "lon": -43.9309
+  },
+  "mry airport": {
+    "lat": 36.587,
+    "lon": -121.8495
+  },
+  "msy airport": {
+    "lat": 29.9934,
+    "lon": -90.258
+  },
+  "mtn airport": {
+    "lat": 39.3338,
+    "lon": -76.4281
+  },
+  "mvy airport": {
+    "lat": 41.3912,
+    "lon": -70.6154
+  },
+  "mwa airport": {
+    "lat": 37.8559,
+    "lon": -89.0951
+  },
+  "mxy airport": {
+    "lat": 60.12,
+    "lon": -145.51
+  },
+  "nbs airport": {
+    "lat": 32.8936,
+    "lon": -96.9794
+  },
+  "nca airport": {
+    "lat": 23.2217,
+    "lon": -78.4248
+  },
+  "new airport": {
+    "lat": 30.0428,
+    "lon": -90.0353
+  },
+  "nfe airport": {
+    "lat": 36.9686,
+    "lon": -76.5809
+  },
+  "njk airport": {
+    "lat": 32.868,
+    "lon": -116.03
+  },
+  "nkt airport": {
+    "lat": 39.8146,
+    "lon": 32.9448
+  },
+  "npa airport": {
+    "lat": 30.3532,
+    "lon": -87.3209
+  },
+  "ntd airport": {
+    "lat": 34.1129,
+    "lon": -118.8831
+  },
+  "nui airport": {
+    "lat": 34.9722,
+    "lon": -70.9355
+  },
+  "oak airport": {
+    "lat": 37.7213,
+    "lon": -122.2208
+  },
+  "ofp airport": {
+    "lat": 37.3324,
+    "lon": -77.5261
+  },
+  "opf airport": {
+    "lat": 25.9069,
+    "lon": -80.2408
+  },
+  "ord airport": {
+    "lat": 41.9742,
+    "lon": -87.9073
+  },
+  "orf airport": {
+    "lat": 36.8946,
+    "lon": -76.2019
+  },
+  "orh airport": {
+    "lat": 42.2673,
+    "lon": -71.8757
+  },
+  "oth airport": {
+    "lat": 43.4174,
+    "lon": -124.2479
+  },
+  "oxc airport": {
+    "lat": 41.4226,
+    "lon": -73.1353
+  },
+  "oxr airport": {
+    "lat": 34.2008,
+    "lon": -119.2093
+  },
+  "pbi airport": {
+    "lat": 26.6832,
+    "lon": -80.0953
+  },
+  "pdk airport": {
+    "lat": 33.8735,
+    "lon": -84.3018
+  },
+  "peq airport": {
+    "lat": 31.6791,
+    "lon": -104.2402
+  },
+  "phf airport": {
+    "lat": 37.1318,
+    "lon": -76.493
+  },
+  "phl airport": {
+    "lat": 39.8744,
+    "lon": -75.243
+  },
+  "phx airport": {
+    "lat": 33.4484,
+    "lon": -112.074
+  },
+  "pir airport": {
+    "lat": 44.382,
+    "lon": -100.2872
+  },
+  "pit airport": {
+    "lat": 40.4915,
+    "lon": -80.2329
+  },
+  "pkb airport": {
+    "lat": 39.3451,
+    "lon": -81.4393
+  },
+  "pmd airport": {
+    "lat": 34.6293,
+    "lon": -118.0836
+  },
+  "pne airport": {
+    "lat": 40.082,
+    "lon": -75.0106
+  },
+  "pou airport": {
+    "lat": 41.6306,
+    "lon": -73.8848
+  },
+  "ppv airport": {
+    "lat": 59.4431,
+    "lon": -153.1783
+  },
+  "pub airport": {
+    "lat": 38.2339,
+    "lon": -104.4966
+  },
+  "pvd airport": {
+    "lat": 41.7326,
+    "lon": -71.4299
+  },
+  "pwm airport": {
+    "lat": 43.6462,
+    "lon": -70.3083
+  },
+  "rdu airport": {
+    "lat": 35.8801,
+    "lon": -78.7875
+  },
+  "rfd airport": {
+    "lat": 42.2011,
+    "lon": -90.3809
+  },
+  "rhi airport": {
+    "lat": 45.6281,
+    "lon": -89.4508
+  },
+  "ric airport": {
+    "lat": 37.5052,
+    "lon": -77.3194
+  },
+  "riv airport": {
+    "lat": 33.8812,
+    "lon": -117.2775
+  },
+  "rkd airport": {
+    "lat": 44.0646,
+    "lon": -69.0964
+  },
+  "rno airport": {
+    "lat": 39.499,
+    "lon": -119.7684
+  },
+  "rnt airport": {
+    "lat": 47.4935,
+    "lon": -122.2165
+  },
+  "roa airport": {
+    "lat": 37.3255,
+    "lon": -79.9754
+  },
+  "roc airport": {
+    "lat": 43.1189,
+    "lon": -77.6726
+  },
+  "rst airport": {
+    "lat": 43.9083,
+    "lon": -92.4975
+  },
+  "rsw airport": {
+    "lat": 26.5362,
+    "lon": -81.7552
+  },
+  "rtn airport": {
+    "lat": 43.2783,
+    "lon": -72.5177
+  },
+  "rvs airport": {
+    "lat": 36.1905,
+    "lon": -97.0455
+  },
+  "sac airport": {
+    "lat": 38.7756,
+    "lon": -121.2088
+  },
+  "saf airport": {
+    "lat": 35.6171,
+    "lon": -106.088
+  },
+  "saq airport": {
+    "lat": 25.0318,
+    "lon": -75.8554
+  },
+  "sav airport": {
+    "lat": 32.1276,
+    "lon": -81.2021
+  },
+  "sba airport": {
+    "lat": 34.4262,
+    "lon": -119.8393
+  },
+  "sbd airport": {
+    "lat": 34.09,
+    "lon": -117.2286
+  },
+  "sbh airport": {
+    "lat": 17.8962,
+    "lon": -62.8433
+  },
+  "sbn airport": {
+    "lat": 41.7087,
+    "lon": -86.3173
+  },
+  "sdf airport": {
+    "lat": 38.1853,
+    "lon": -85.7365
+  },
+  "sdy airport": {
+    "lat": 47.7023,
+    "lon": -105.9702
+  },
+  "sea airport": {
+    "lat": 47.6062,
+    "lon": -122.3321
+  },
+  "see airport": {
+    "lat": 32.8292,
+    "lon": -116.8623
+  },
+  "sfg airport": {
+    "lat": 18.07,
+    "lon": -63.0532
+  },
+  "sfo airport": {
+    "lat": 37.6213,
+    "lon": -122.379
+  },
+  "sgh airport": {
+    "lat": 39.8403,
+    "lon": -84.3531
+  },
+  "shg airport": {
+    "lat": 29.6453,
+    "lon": -95.2722
+  },
+  "shv airport": {
+    "lat": 32.4501,
+    "lon": -93.8256
+  },
+  "sin airport": {
+    "lat": 1.3521,
+    "lon": 103.8198
+  },
+  "sjc airport": {
+    "lat": 37.3715,
+    "lon": -121.9299
+  },
+  "sjt airport": {
+    "lat": 31.3576,
+    "lon": -100.4992
+  },
+  "slc airport": {
+    "lat": 40.7899,
+    "lon": -111.9787
+  },
+  "sln airport": {
+    "lat": 38.8435,
+    "lon": -97.611
+  },
+  "slp airport": {
+    "lat": 22.1414,
+    "lon": -100.8277
+  },
+  "smf airport": {
+    "lat": 38.6954,
+    "lon": -121.5904
+  },
+  "sna airport": {
+    "lat": 33.6762,
+    "lon": -117.8687
+  },
+  "sns airport": {
+    "lat": 36.6633,
+    "lon": -121.5958
+  },
+  "spb airport": {
+    "lat": 35.9169,
+    "lon": -76.6042
+  },
+  "spd airport": {
+    "lat": 13.6969,
+    "lon": -89.076
+  },
+  "srq airport": {
+    "lat": 27.3954,
+    "lon": -82.5579
+  },
+  "ssc airport": {
+    "lat": 33.9702,
+    "lon": -80.8027
+  },
+  "stl airport": {
+    "lat": 38.7483,
+    "lon": -90.37
+  },
+  "stp airport": {
+    "lat": 44.9307,
+    "lon": -93.0516
+  },
+  "stt airport": {
+    "lat": 18.3358,
+    "lon": -64.8963
+  },
+  "stx airport": {
+    "lat": 17.7016,
+    "lon": -64.7989
+  },
+  "sun airport": {
+    "lat": 43.5298,
+    "lon": 116.101
+  },
+  "swf airport": {
+    "lat": 41.5042,
+    "lon": -74.1049
+  },
+  "syr airport": {
+    "lat": 43.1115,
+    "lon": -76.1063
+  },
+  "szn airport": {
+    "lat": 28.8828,
+    "lon": -97.2161
+  },
+  "tal airport": {
+    "lat": -5.2066,
+    "lon": -52.1968
+  },
+  "teb airport": {
+    "lat": 40.85,
+    "lon": -74.0608
+  },
+  "tir airport": {
+    "lat": 14.1773,
+    "lon": 79.1116
+  },
+  "tist airport": {
+    "lat": 18.3373,
+    "lon": -64.9785
+  },
+  "tix airport": {
+    "lat": 28.6163,
+    "lon": -80.6174
+  },
+  "tks airport": {
+    "lat": 32.6816,
+    "lon": -96.2495
+  },
+  "tlh airport": {
+    "lat": 30.3964,
+    "lon": -84.3711
+  },
+  "tlt airport": {
+    "lat": 32.706,
+    "lon": -100.4737
+  },
+  "tmb airport": {
+    "lat": 25.6479,
+    "lon": -80.4326
+  },
+  "tni airport": {
+    "lat": 32.767,
+    "lon": -95.3112
+  },
+  "tnt airport": {
+    "lat": 26.0974,
+    "lon": -80.8964
+  },
+  "tol airport": {
+    "lat": 41.5868,
+    "lon": -83.8073
+  },
+  "tpa airport": {
+    "lat": 27.9755,
+    "lon": -82.5332
+  },
+  "trm airport": {
+    "lat": 33.8856,
+    "lon": -116.1599
+  },
+  "trn airport": {
+    "lat": 45.1942,
+    "lon": 7.6499
+  },
+  "ttn airport": {
+    "lat": 40.2766,
+    "lon": -74.8134
+  },
+  "tul airport": {
+    "lat": 36.1984,
+    "lon": -95.8907
+  },
+  "tup airport": {
+    "lat": 34.68,
+    "lon": -89.9857
+  },
+  "tvf airport": {
+    "lat": 44.1212,
+    "lon": -96.1872
+  },
+  "twd airport": {
+    "lat": 47.3033,
+    "lon": -122.4778
+  },
+  "txl airport": {
+    "lat": 52.5597,
+    "lon": 13.2877
+  },
+  "tyl airport": {
+    "lat": 39.095,
+    "lon": -120.5716
+  },
+  "tys airport": {
+    "lat": 35.812,
+    "lon": -83.9899
+  },
+  "uck airport": {
+    "lat": 49.9414,
+    "lon": 32.0581
+  },
+  "udc airport": {
+    "lat": 44.5177,
+    "lon": 48.4004
+  },
+  "uiz airport": {
+    "lat": 42.2252,
+    "lon": -83.049
+  },
+  "ulm airport": {
+    "lat": 44.5455,
+    "lon": -94.4912
+  },
+  "unk airport": {
+    "lat": 63.7322,
+    "lon": -160.3996
+  },
+  "vgt airport": {
+    "lat": 36.1754,
+    "lon": -115.0868
+  },
+  "vky airport": {
+    "lat": 37.7532,
+    "lon": -92.1547
+  },
+  "vle airport": {
+    "lat": 34.7646,
+    "lon": -114.5687
+  },
+  "vny airport": {
+    "lat": 34.2231,
+    "lon": -118.4904
+  },
+  "vps airport": {
+    "lat": 30.4831,
+    "lon": -86.5312
+  },
+  "vrb airport": {
+    "lat": 27.6556,
+    "lon": -80.4182
+  },
+  "vta airport": {
+    "lat": 39.9139,
+    "lon": -82.5407
+  },
+  "vtb airport": {
+    "lat": 44.3497,
+    "lon": 58.2876
+  },
+  "w01 airport": {
+    "lat": 31.1786,
+    "lon": -83.7385
+  },
+  "wab airport": {
+    "lat": 29.3047,
+    "lon": -98.514
+  },
+  "wcr airport": {
+    "lat": 55.5667,
+    "lon": -131.1567
+  },
+  "wdr airport": {
+    "lat": 33.9723,
+    "lon": -83.1292
+  },
+  "whp airport": {
+    "lat": 34.2593,
+    "lon": -118.359
+  },
+  "wik airport": {
+    "lat": 47.5613,
+    "lon": -53.6068
+  },
+  "wld airport": {
+    "lat": 37.2097,
+    "lon": -97.0452
+  },
+  "wlw airport": {
+    "lat": 39.6052,
+    "lon": -121.614
+  },
+  "wmc airport": {
+    "lat": 38.5128,
+    "lon": -119.1814
+  },
+  "wna airport": {
+    "lat": 60.4269,
+    "lon": -152.6389
+  },
+  "wsd airport": {
+    "lat": 33.942,
+    "lon": -118.4147
+  },
+  "wst airport": {
+    "lat": 41.3731,
+    "lon": -71.4984
+  },
+  "wsx airport": {
+    "lat": 39.6765,
+    "lon": -75.0803
+  },
+  "wtk airport": {
+    "lat": 64.6862,
+    "lon": -160.7967
+  },
+  "wuh airport": {
+    "lat": 30.5825,
+    "lon": 114.2167
+  },
+  "wvi airport": {
+    "lat": 36.9236,
+    "lon": -121.9536
+  },
+  "wwd airport": {
+    "lat": 38.7929,
+    "lon": -74.9578
+  },
+  "zbf airport": {
+    "lat": 45.6213,
+    "lon": -66.7647
+  },
+  "zrh airport": {
+    "lat": 47.4522,
+    "lon": 8.5642
+  },
+  "albany international": {
+    "lat": 42.6501,
+    "lon": -73.7591
+  },
+  "allegheny county airport": {
+    "lat": 40.353914,
+    "lon": -79.932252
+  },
+  "aspen/pitkin county airport": {
+    "lat": 39.22304,
+    "lon": -106.86921
+  },
+  "atlantic city international": {
+    "lat": 39.452259,
+    "lon": -74.573168
+  },
+  "jfk international, ny": {
+    "lat": 40.6413,
+    "lon": -73.7781
+  },
+  "john f. kennedy international, ny": {
+    "lat": 40.6413,
+    "lon": -73.7781
+  },
+  "lax international, ca": {
+    "lat": 33.9416,
+    "lon": -118.4085
+  },
+  "los angeles international, ca": {
+    "lat": 33.9416,
+    "lon": -118.4085
+  },
+  "dca": {
+    "lat": 38.8512,
+    "lon": -77.0402
+  },
+  "ronald reagan washington national, dc": {
+    "lat": 38.8512,
+    "lon": -77.0402
+  },
+  "iad": {
+    "lat": 38.9531,
+    "lon": -77.4565
+  },
+  "washington dulles international, va": {
+    "lat": 38.9531,
+    "lon": -77.4565
+  },
+  "dulles international, va": {
+    "lat": 38.9531,
+    "lon": -77.4565
+  },
+  "las": {
+    "lat": 36.084,
+    "lon": -115.1537
+  },
+  "mdw": {
+    "lat": 41.7868,
+    "lon": -87.7524
+  },
+  "den": {
+    "lat": 39.8561,
+    "lon": -104.6737
+  },
+  "denver international, co": {
+    "lat": 39.8561,
+    "lon": -104.6737
+  },
+  "hartsfield-jackson atlanta international, ga": {
+    "lat": 33.6407,
+    "lon": -84.4277
+  },
+  "miami international, fl": {
+    "lat": 25.7959,
+    "lon": -80.287
+  },
+  "fort lauderdale-hollywood international, fl": {
+    "lat": 26.0742,
+    "lon": -80.151
+  },
+  "orlando international, fl": {
+    "lat": 28.4294,
+    "lon": -81.3089
+  },
+  "tampa international, fl": {
+    "lat": 27.9755,
+    "lon": -82.5332
+  },
+  "ind": {
+    "lat": 39.7173,
+    "lon": -86.2944
+  },
+  "indianapolis international, in": {
+    "lat": 39.7173,
+    "lon": -86.2944
+  },
+  "phoenix sky harbor international, az": {
+    "lat": 33.4484,
+    "lon": -112.074
+  },
+  "tucson international, az": {
+    "lat": 32.1144,
+    "lon": -110.938
+  },
+  "san diego international, ca": {
+    "lat": 32.7338,
+    "lon": -117.1933
+  },
+  "san antonio international, tx": {
+    "lat": 29.5337,
+    "lon": -98.4698
+  },
+  "dallas/fort worth international, tx": {
+    "lat": 32.8998,
+    "lon": -97.0403
+  },
+  "seattle-tacoma international, wa": {
+    "lat": 47.4502,
+    "lon": -122.3088
+  },
+  "sea": {
+    "lat": 47.4502,
+    "lon": -122.3088
+  },
+  "slc": {
+    "lat": 40.7899,
+    "lon": -111.9787
+  },
+  "salt lake city international, ut": {
+    "lat": 40.7899,
+    "lon": -111.9787
+  },
+  "stl": {
+    "lat": 38.7483,
+    "lon": -90.37
+  },
+  "st louis lambert international, mo": {
+    "lat": 38.7483,
+    "lon": -90.37
+  },
+  "boston logan international, ma": {
+    "lat": 42.3656,
+    "lon": -71.0096
+  },
+  "providence": {
+    "lat": 41.7231,
+    "lon": -71.4355
+  },
+  "t.f. green international, providence, ri": {
+    "lat": 41.7231,
+    "lon": -71.4355
+  },
+  "philadelphia international, pa": {
+    "lat": 39.8744,
+    "lon": -75.2424
+  },
+  "phl": {
+    "lat": 39.8744,
+    "lon": -75.2424
+  },
+  "lga": {
+    "lat": 40.7769,
+    "lon": -73.874
+  },
+  "laguardia airport, ny": {
+    "lat": 40.7769,
+    "lon": -73.874
+  },
+  "ewr": {
+    "lat": 40.6895,
+    "lon": -74.1745
+  },
+  "newark liberty international, nj": {
+    "lat": 40.6895,
+    "lon": -74.1745
+  },
+  "sfo": {
+    "lat": 37.6213,
+    "lon": -122.379
+  },
+  "san francisco international, ca": {
+    "lat": 37.6213,
+    "lon": -122.379
+  },
+  "oak": {
+    "lat": 37.7213,
+    "lon": -122.2208
+  },
+  "san, ca": {
+    "lat": 32.7338,
+    "lon": -117.1933
+  },
+  "sba": {
+    "lat": 34.4262,
+    "lon": -119.8393
+  },
+  "santa barbara airport, ca": {
+    "lat": 34.4262,
+    "lon": -119.8393
+  },
+  "santa fe municipal airport, nm": {
+    "lat": 35.6171,
+    "lon": -106.088
+  },
+  "saf": {
+    "lat": 35.6171,
+    "lon": -106.088
+  },
+  "albuquerque international sunport, nm": {
+    "lat": 35.0483,
+    "lon": -106.61
+  },
+  "ase": {
+    "lat": 39.2232,
+    "lon": -106.869
+  },
+  "aspen/pitkin county airport, co": {
+    "lat": 39.2232,
+    "lon": -106.869
+  },
+  "rno": {
+    "lat": 39.499,
+    "lon": -119.7684
+  },
+  "reno-tahoe international, nv": {
+    "lat": 39.499,
+    "lon": -119.7684
+  },
+  "smf": {
+    "lat": 38.6954,
+    "lon": -121.5904
+  },
+  "sacramento international, ca": {
+    "lat": 38.6954,
+    "lon": -121.5904
+  },
+  "sjc": {
+    "lat": 37.3639,
+    "lon": -121.9289
+  },
+  "san jose international, ca": {
+    "lat": 37.3639,
+    "lon": -121.9289
+  },
+  "ont": {
+    "lat": 34.0561,
+    "lon": -117.6012
+  },
+  "ontario international, ca": {
+    "lat": 34.0561,
+    "lon": -117.6012
+  },
+  "vny": {
+    "lat": 34.2098,
+    "lon": -118.4906
+  },
+  "van nuys airport, ca": {
+    "lat": 34.2098,
+    "lon": -118.4906
+  },
+  "bur": {
+    "lat": 34.2006,
+    "lon": -118.3585
+  },
+  "bob hope airport, ca": {
+    "lat": 34.2006,
+    "lon": -118.3585
+  },
+  "lgb": {
+    "lat": 33.8177,
+    "lon": -118.1516
+  },
+  "long beach airport, ca": {
+    "lat": 33.8177,
+    "lon": -118.1516
+  },
+  "sna": {
+    "lat": 33.6762,
+    "lon": -117.8687
+  },
+  "john wayne airport, ca": {
+    "lat": 33.6762,
+    "lon": -117.8687
+  },
+  "pdk": {
+    "lat": 33.8736,
+    "lon": -84.3018
+  },
+  "dekalb-peachtree airport, ga": {
+    "lat": 33.8736,
+    "lon": -84.3018
+  },
+  "fty": {
+    "lat": 33.7791,
+    "lon": -84.5213
+  },
+  "fulton county airport, ga": {
+    "lat": 33.7791,
+    "lon": -84.5213
+  },
+  "tus": {
+    "lat": 32.1144,
+    "lon": -110.938
+  },
+  "daytona beach international, fl": {
+    "lat": 29.1799,
+    "lon": -81.0581
+  },
+  "rsw": {
+    "lat": 26.5362,
+    "lon": -81.7552
+  },
+  "southwest florida international, fl": {
+    "lat": 26.5362,
+    "lon": -81.7552
+  },
+  "mco": {
+    "lat": 28.4294,
+    "lon": -81.3089
+  },
+  "mrsn": {
+    "lat": 30.3943,
+    "lon": -81.6097
+  },
+  "jacksonville international, fl": {
+    "lat": 30.3943,
+    "lon": -81.6097
+  },
+  "jax": {
+    "lat": 30.3943,
+    "lon": -81.6097
+  },
+  "sav": {
+    "lat": 32.1276,
+    "lon": -81.2021
+  },
+  "savannah/hilton head international, ga": {
+    "lat": 32.1276,
+    "lon": -81.2021
+  },
+  "chs": {
+    "lat": 32.8986,
+    "lon": -79.9392
+  },
+  "charleston international, sc": {
+    "lat": 32.8986,
+    "lon": -79.9392
+  },
+  "ric": {
+    "lat": 37.5052,
+    "lon": -77.3194
+  },
+  "richmond international, va": {
+    "lat": 37.5052,
+    "lon": -77.3194
+  },
+  "bwi": {
+    "lat": 39.1774,
+    "lon": -76.6684
+  },
+  "baltimore-washington international, md": {
+    "lat": 39.1774,
+    "lon": -76.6684
+  },
+  "bwi airport": {
+    "lat": 39.1774,
+    "lon": -76.6684
+  },
+  "pit": {
+    "lat": 40.4915,
+    "lon": -80.2329
+  },
+  "pittsburgh international, pa": {
+    "lat": 40.4915,
+    "lon": -80.2329
+  },
+  "cle": {
+    "lat": 41.4117,
+    "lon": -81.8498
+  },
+  "cleveland hopkins international, oh": {
+    "lat": 41.4117,
+    "lon": -81.8498
+  },
+  "cmh": {
+    "lat": 39.998,
+    "lon": -82.8919
+  },
+  "columbus airport, oh": {
+    "lat": 39.998,
+    "lon": -82.8919
+  },
+  "john glenn columbus international, oh": {
+    "lat": 39.998,
+    "lon": -82.8919
+  },
+  "dtw": {
+    "lat": 42.2162,
+    "lon": -83.3554
+  },
+  "detroit metropolitan, mi": {
+    "lat": 42.2162,
+    "lon": -83.3554
+  },
+  "msp": {
+    "lat": 44.8848,
+    "lon": -93.2223
+  },
+  "minneapolis-st paul international, mn": {
+    "lat": 44.8848,
+    "lon": -93.2223
+  },
+  "mci": {
+    "lat": 39.2976,
+    "lon": -94.7139
+  },
+  "kansas city international, mo": {
+    "lat": 39.2976,
+    "lon": -94.7139
+  },
+  "stp": {
+    "lat": 44.9307,
+    "lon": -93.0516
+  },
+  "st paul downtown holman field, mn": {
+    "lat": 44.9307,
+    "lon": -93.0516
+  },
+  "iad airport": {
+    "lat": 38.9531,
+    "lon": -77.4565
+  },
+  "suv": {
+    "lat": 35.2144,
+    "lon": -83.4331
+  },
+  "try": {
+    "lat": 42.4831,
+    "lon": -71.5203
+  },
+  "lwb": {
+    "lat": 37.8582,
+    "lon": -80.3991
+  },
+  "akc": {
+    "lat": 41.099,
+    "lon": -81.462
+  },
+  "miv": {
+    "lat": 39.2295,
+    "lon": -74.5776
+  },
+  "w03": {
+    "lat": 39.5048,
+    "lon": -74.3483
+  },
+  "pibm": {
+    "lat": 26.8411,
+    "lon": -80.0856
+  },
+  "little st. james island, usvi": {
+    "lat": 17.7025,
+    "lon": -64.9231
+  },
+  "little st james": {
+    "lat": 17.7025,
+    "lon": -64.9231
+  },
+  "st james": {
+    "lat": 17.7025,
+    "lon": -64.9231
+  },
+  "princess juliana international, st. maarten": {
+    "lat": 18.0412,
+    "lon": -63.0531
+  },
+  "st maarten": {
+    "lat": 18.0412,
+    "lon": -63.0531
+  },
+  "san juan, puerto rico": {
+    "lat": 18.4394,
+    "lon": -66.0018
+  },
+  "tjsj airport": {
+    "lat": 18.4394,
+    "lon": -66.0018
+  },
+  "sju": {
+    "lat": 18.4394,
+    "lon": -66.0018
+  },
+  "stx": {
+    "lat": 17.7016,
+    "lon": -64.7989
+  },
+  "st thomas Cyril e king airport": {
+    "lat": 18.3373,
+    "lon": -64.9785
+  },
+  "st thomas airport": {
+    "lat": 18.3373,
+    "lon": -64.9785
+  },
+  "stt": {
+    "lat": 18.3373,
+    "lon": -64.9785
+  },
+  "st barth": {
+    "lat": 17.9137,
+    "lon": -62.8453
+  },
+  "st bartholome": {
+    "lat": 17.9137,
+    "lon": -62.8453
+  },
+  "anguilla": {
+    "lat": 18.2657,
+    "lon": -63.2153
+  },
+  "tortola": {
+    "lat": 18.4448,
+    "lon": -64.5584
+  },
+  "virgin gorda": {
+    "lat": 18.4486,
+    "lon": -64.4269
+  },
+  "st kitts": {
+    "lat": 17.3937,
+    "lon": -62.7185
+  },
+  "st lucia": {
+    "lat": 13.7562,
+    "lon": -60.9718
+  },
+  "st vincent": {
+    "lat": 13.1948,
+    "lon": -61.2235
+  },
+  "grenada": {
+    "lat": 12.1165,
+    "lon": -61.6794
+  },
+  "tobago": {
+    "lat": 11.1498,
+    "lon": -60.8328
+  },
+  "curacao": {
+    "lat": 12.1929,
+    "lon": -69.7964
+  },
+  "bonaire": {
+    "lat": 12.1251,
+    "lon": -68.2676
+  },
+  "st eustatius": {
+    "lat": 17.4702,
+    "lon": -62.9744
+  },
+  "st barts": {
+    "lat": 17.9137,
+    "lon": -62.8453
+  },
+  "nassau": {
+    "lat": 25.0343,
+    "lon": -77.3963
+  },
+  "exuma": {
+    "lat": 23.5627,
+    "lon": -75.8777
+  },
+  "bimini": {
+    "lat": 25.7381,
+    "lon": -79.2629
+  },
+  "freeport": {
+    "lat": 26.5333,
+    "lon": -78.7
+  },
+  "eleuthera": {
+    "lat": 25.0286,
+    "lon": -76.0456
+  },
+  "hawaii": {
+    "lat": 19.8968,
+    "lon": -155.5828
+  },
+  "oahu": {
+    "lat": 21.4765,
+    "lon": -158.2376
+  },
+  "maui": {
+    "lat": 20.7984,
+    "lon": -156.3319
+  },
+  "kauai": {
+    "lat": 22.0964,
+    "lon": -159.5261
+  },
+  "big island": {
+    "lat": 19.8968,
+    "lon": -155.5828
+  },
+  "hilo": {
+    "lat": 19.7297,
+    "lon": -155.09
+  },
+  "kona": {
+    "lat": 19.6401,
+    "lon": -155.9969
+  },
+  "molokai": {
+    "lat": 21.1329,
+    "lon": -157.0231
+  },
+  "lanai": {
+    "lat": 20.8248,
+    "lon": -156.9218
+  },
+  "london heathrow": {
+    "lat": 51.47,
+    "lon": -0.4614
+  },
+  "lhr": {
+    "lat": 51.47,
+    "lon": -0.4614
+  },
+  "london gatwick": {
+    "lat": 51.1537,
+    "lon": -0.1821
+  },
+  "lgw": {
+    "lat": 51.1537,
+    "lon": -0.1821
+  },
+  "london luton": {
+    "lat": 51.8747,
+    "lon": -0.3683
+  },
+  "london luton airport, uk": {
+    "lat": 51.8747,
+    "lon": -0.3683
+  },
+  "london stansted": {
+    "lat": 51.886,
+    "lon": 0.2371
+  },
+  "stansted": {
+    "lat": 51.886,
+    "lon": 0.2371
+  },
+  "paris charles de gaulle": {
+    "lat": 49.0097,
+    "lon": 2.5479
+  },
+  "cdg": {
+    "lat": 49.0097,
+    "lon": 2.5479
+  },
+  "paris orly": {
+    "lat": 48.7263,
+    "lon": 2.3652
+  },
+  "ory": {
+    "lat": 48.7263,
+    "lon": 2.3652
+  },
+  "le bourget": {
+    "lat": 48.9698,
+    "lon": 2.4418
+  },
+  "le bourget, paris, france": {
+    "lat": 48.9698,
+    "lon": 2.4418
+  },
+  "paris le bourget, france": {
+    "lat": 48.9698,
+    "lon": 2.4418
+  },
+  "nice cote d'azur, france": {
+    "lat": 43.7102,
+    "lon": 7.266
+  },
+  "lyon": {
+    "lat": 45.7256,
+    "lon": 5.0908
+  },
+  "marseille": {
+    "lat": 43.4355,
+    "lon": 5.2134
+  },
+  "zrh": {
+    "lat": 47.4647,
+    "lon": 8.5492
+  },
+  "zurich": {
+    "lat": 47.4647,
+    "lon": 8.5492
+  },
+  "muc": {
+    "lat": 48.3537,
+    "lon": 11.7861
+  },
+  "fra": {
+    "lat": 50.0379,
+    "lon": 8.5622
+  },
+  "ber": {
+    "lat": 52.3667,
+    "lon": 13.5033
+  },
+  "berlin tegel": {
+    "lat": 52.5596,
+    "lon": 13.2887
+  },
+  "berlin brandenburg": {
+    "lat": 52.3667,
+    "lon": 13.5033
+  },
+  "ham": {
+    "lat": 53.5511,
+    "lon": 9.9937
+  },
+  "dusseldorf": {
+    "lat": 51.2895,
+    "lon": 6.7668
+  },
+  "dus": {
+    "lat": 51.2895,
+    "lon": 6.7668
+  },
+  "cologne": {
+    "lat": 50.8662,
+    "lon": 7.1697
+  },
+  "cgn": {
+    "lat": 50.8662,
+    "lon": 7.1697
+  },
+  "vie": {
+    "lat": 48.1103,
+    "lon": 16.5697
+  },
+  "mad": {
+    "lat": 40.4983,
+    "lon": -3.5676
+  },
+  "bcn": {
+    "lat": 41.2971,
+    "lon": 2.0785
+  },
+  "lis": {
+    "lat": 38.7742,
+    "lon": -9.1342
+  },
+  "porto": {
+    "lat": 41.2396,
+    "lon": -8.6789
+  },
+  "oporto": {
+    "lat": 41.2396,
+    "lon": -8.6789
+  },
+  "dub": {
+    "lat": 53.4264,
+    "lon": -6.2499
+  },
+  "ams": {
+    "lat": 52.3105,
+    "lon": 4.7683
+  },
+  "bru": {
+    "lat": 50.9014,
+    "lon": 4.4844
+  },
+  "luxembourg": {
+    "lat": 49.6266,
+    "lon": 6.1338
+  },
+  "lux": {
+    "lat": 49.6266,
+    "lon": 6.1338
+  },
+  "arn": {
+    "lat": 59.6519,
+    "lon": 17.9186
+  },
+  "osl": {
+    "lat": 60.1939,
+    "lon": 11.1004
+  },
+  "cph": {
+    "lat": 55.618,
+    "lon": 12.6508
+  },
+  "helsinki": {
+    "lat": 60.3172,
+    "lon": 24.9633
+  },
+  "hel": {
+    "lat": 60.3172,
+    "lon": 24.9633
+  },
+  "fco": {
+    "lat": 41.8003,
+    "lon": 12.2389
+  },
+  "ciampino airport, rome, italy": {
+    "lat": 41.7994,
+    "lon": 12.5949
+  },
+  "ciampino": {
+    "lat": 41.7994,
+    "lon": 12.5949
+  },
+  "milan linate": {
+    "lat": 45.4451,
+    "lon": 9.2767
+  },
+  "lin": {
+    "lat": 45.4451,
+    "lon": 9.2767
+  },
+  "milan malpensa": {
+    "lat": 45.6312,
+    "lon": 8.7281
+  },
+  "mxp": {
+    "lat": 45.6312,
+    "lon": 8.7281
+  },
+  "venice": {
+    "lat": 45.5053,
+    "lon": 12.3519
+  },
+  "vce": {
+    "lat": 45.5053,
+    "lon": 12.3519
+  },
+  "ath": {
+    "lat": 37.9364,
+    "lon": 23.9472
+  },
+  "cape town, south africa": {
+    "lat": -33.9715,
+    "lon": 18.6021
+  },
+  "johannesburg, south africa": {
+    "lat": -26.1367,
+    "lon": 28.2413
+  },
+  "jnb": {
+    "lat": -26.1367,
+    "lon": 28.2413
+  },
+  "abidjan": {
+    "lat": 5.3599,
+    "lon": -4.0086
+  },
+  "accra, ghana": {
+    "lat": 5.6037,
+    "lon": -0.1668
+  },
+  "lagos": {
+    "lat": 6.5244,
+    "lon": 3.3792
+  },
+  "nairobi, kenya": {
+    "lat": -1.319,
+    "lon": 36.9178
+  },
+  "nbo": {
+    "lat": -1.319,
+    "lon": 36.9178
+  },
+  "kigali, rwanda": {
+    "lat": -1.9686,
+    "lon": 30.0606
+  },
+  "cmn": {
+    "lat": 33.3687,
+    "lon": -7.5865
+  },
+  "rabat-sale airport, morocco": {
+    "lat": 34.0523,
+    "lon": -6.7495
+  },
+  "raku": {
+    "lat": 31.6087,
+    "lon": -8.0322
+  },
+  "dxb": {
+    "lat": 25.2532,
+    "lon": 55.3657
+  },
+  "abu dhabi": {
+    "lat": 24.4331,
+    "lon": 54.6511
+  },
+  "auh": {
+    "lat": 24.4331,
+    "lon": 54.6511
+  },
+  "doha": {
+    "lat": 25.2731,
+    "lon": 51.608
+  },
+  "doh": {
+    "lat": 25.2731,
+    "lon": 51.608
+  },
+  "narita": {
+    "lat": 35.7647,
+    "lon": 140.3864
+  },
+  "nrt": {
+    "lat": 35.7647,
+    "lon": 140.3864
+  },
+  "haneda": {
+    "lat": 35.5494,
+    "lon": 139.7798
+  },
+  "hnd": {
+    "lat": 35.5494,
+    "lon": 139.7798
+  },
+  "osaka": {
+    "lat": 34.4273,
+    "lon": 135.2444
+  },
+  "kix": {
+    "lat": 34.4273,
+    "lon": 135.2444
+  },
+  "icn": {
+    "lat": 37.4602,
+    "lon": 126.4407
+  },
+  "sin": {
+    "lat": 1.3644,
+    "lon": 103.9915
+  },
+  "hkg": {
+    "lat": 22.308,
+    "lon": 113.9185
+  },
+  "bkk": {
+    "lat": 13.69,
+    "lon": 100.7501
+  },
+  "mumbai": {
+    "lat": 19.0896,
+    "lon": 72.8656
+  },
+  "bom": {
+    "lat": 19.0896,
+    "lon": 72.8656
+  },
+  "delhi": {
+    "lat": 28.5661,
+    "lon": 77.1031
+  },
+  "del": {
+    "lat": 28.5661,
+    "lon": 77.1031
+  },
+  "sha": {
+    "lat": 31.1434,
+    "lon": 121.805
+  },
+  "beijing": {
+    "lat": 40.0799,
+    "lon": 116.6031
+  },
+  "pek": {
+    "lat": 40.0799,
+    "lon": 116.6031
+  },
+  "montreal-trudeau international, canada": {
+    "lat": 45.4709,
+    "lon": -73.7432
+  },
+  "yul": {
+    "lat": 45.4709,
+    "lon": -73.7432
+  },
+  "toronto pearson, canada": {
+    "lat": 43.6777,
+    "lon": -79.6248
+  },
+  "yyz": {
+    "lat": 43.6777,
+    "lon": -79.6248
+  },
+  "vancouver": {
+    "lat": 49.1967,
+    "lon": -123.1815
+  },
+  "yvr": {
+    "lat": 49.1967,
+    "lon": -123.1815
+  },
+  "calgary": {
+    "lat": 51.1139,
+    "lon": -114.0196
+  },
+  "yyc": {
+    "lat": 51.1139,
+    "lon": -114.0196
+  },
+  "ottawa": {
+    "lat": 45.3227,
+    "lon": -75.6652
+  },
+  "yow": {
+    "lat": 45.3225,
+    "lon": -75.6652
+  },
+  "mexico city": {
+    "lat": 19.4361,
+    "lon": -99.0719
+  },
+  "mex": {
+    "lat": 19.4361,
+    "lon": -99.0719
+  },
+  "cancun": {
+    "lat": 21.0405,
+    "lon": -86.6228
+  },
+  "cun": {
+    "lat": 21.0405,
+    "lon": -86.6228
+  },
+  "guadalajara": {
+    "lat": 20.5218,
+    "lon": -103.3124
+  },
+  "gdl": {
+    "lat": 20.5218,
+    "lon": -103.3124
+  },
+  "san jose, costa rica": {
+    "lat": 9.7489,
+    "lon": -83.7534
+  },
+  "tocumen": {
+    "lat": 9.0676,
+    "lon": -79.4289
+  },
+  "ppt": {
+    "lat": 9.0676,
+    "lon": -79.4289
+  },
+  "sao paulo": {
+    "lat": -23.4306,
+    "lon": -46.4731
+  },
+  "gru": {
+    "lat": -23.4306,
+    "lon": -46.4731
+  },
+  "guarulhos": {
+    "lat": -23.4356,
+    "lon": -46.4731
+  },
+  "gig": {
+    "lat": -22.8099,
+    "lon": -43.2505
+  },
+  "rio": {
+    "lat": -22.8099,
+    "lon": -43.2505
+  },
+  "buenos aires": {
+    "lat": -34.8333,
+    "lon": -58.3667
+  },
+  "eze": {
+    "lat": -34.8222,
+    "lon": -58.5358
+  },
+  "bogota": {
+    "lat": 4.7116,
+    "lon": -74.0721
+  },
+  "bog": {
+    "lat": 4.7116,
+    "lon": -74.0721
+  },
+  "lima": {
+    "lat": -12.0464,
+    "lon": -77.0428
+  },
+  "lim": {
+    "lat": -12.0464,
+    "lon": -77.0428
+  },
+  "santiago": {
+    "lat": -33.3936,
+    "lon": -70.7858
+  },
+  "scl": {
+    "lat": -33.3936,
+    "lon": -70.7858
+  },
+  "syd": {
+    "lat": -33.9399,
+    "lon": 151.1753
+  },
+  "mel": {
+    "lat": -37.669,
+    "lon": 144.841
+  },
+  "akl": {
+    "lat": -37.0082,
+    "lon": 174.785
+  },
+  "new zealand": {
+    "lat": -36.8509,
+    "lon": 174.7645
+  },
+  "fiji": {
+    "lat": -18.1248,
+    "lon": 178.4501
+  },
+  "nadi": {
+    "lat": -17.7553,
+    "lon": 177.4427
+  },
+  "albany": {
+    "lat": 42.6501,
+    "lon": -73.7591
+  },
+  "albany international, ny": {
+    "lat": 42.6501,
+    "lon": -73.7591
+  },
+  "albany airport": {
+    "lat": 42.6501,
+    "lon": -73.7591
+  },
+  "syr": {
+    "lat": 43.1112,
+    "lon": -76.1063
+  },
+  "syracuse hancock international, ny": {
+    "lat": 43.1112,
+    "lon": -76.1063
+  },
+  "roc": {
+    "lat": 43.1189,
+    "lon": -77.6726
+  },
+  "rochester international, ny": {
+    "lat": 43.1189,
+    "lon": -77.6726
+  },
+  "buf": {
+    "lat": 42.9405,
+    "lon": -78.7322
+  },
+  "buffalo niagara international, ny": {
+    "lat": 42.9405,
+    "lon": -78.7322
+  },
+  "bdl": {
+    "lat": 41.7669,
+    "lon": -72.6833
+  },
+  "bradley international, ct": {
+    "lat": 41.7669,
+    "lon": -72.6833
+  },
+  "pvd": {
+    "lat": 41.7325,
+    "lon": -71.4278
+  },
+  "providence tf green, ri": {
+    "lat": 41.7325,
+    "lon": -71.4278
+  },
+  "mht": {
+    "lat": 42.9346,
+    "lon": -71.4365
+  },
+  "manchester regional, nh": {
+    "lat": 42.9346,
+    "lon": -71.4365
+  },
+  "hanscom field, ma": {
+    "lat": 42.4693,
+    "lon": -71.2859
+  },
+  "laurence g. hanscom field, bedford, ma": {
+    "lat": 42.4693,
+    "lon": -71.2859
+  },
+  "bvy": {
+    "lat": 42.5881,
+    "lon": -70.9233
+  },
+  "beverly municipal, ma": {
+    "lat": 42.5881,
+    "lon": -70.9233
+  },
+  "teb": {
+    "lat": 40.8475,
+    "lon": -74.0608
+  },
+  "teterboro airport, nj": {
+    "lat": 40.8475,
+    "lon": -74.0608
+  },
+  "mpv": {
+    "lat": 43.5266,
+    "lon": -72.5846
+  },
+  "middlebury state, vt": {
+    "lat": 43.5266,
+    "lon": -72.5846
+  },
+  "hpn": {
+    "lat": 41.067,
+    "lon": -73.7074
+  },
+  "westchester county airport, ny": {
+    "lat": 41.067,
+    "lon": -73.7074
+  },
+  "swf": {
+    "lat": 41.5042,
+    "lon": -74.1049
+  },
+  "newburgh stewart international, ny": {
+    "lat": 41.5042,
+    "lon": -74.1049
+  },
+  "isp": {
+    "lat": 40.7952,
+    "lon": -73.0683
+  },
+  "long island macarthur, ny": {
+    "lat": 40.7952,
+    "lon": -73.0683
+  },
+  "fok": {
+    "lat": 40.7325,
+    "lon": -73.0528
+  },
+  "brookhaven, ny": {
+    "lat": 40.7325,
+    "lon": -73.0528
+  },
+  "avp": {
+    "lat": 41.3383,
+    "lon": -75.7233
+  },
+  "scranton wilkes-barre, pa": {
+    "lat": 41.3383,
+    "lon": -75.7233
+  },
+  "bgr": {
+    "lat": 44.8074,
+    "lon": -68.7683
+  },
+  "bangor international, me": {
+    "lat": 44.8074,
+    "lon": -68.7683
+  },
+  "pwm": {
+    "lat": 43.6462,
+    "lon": -70.3083
+  },
+  "portland international jetport, me": {
+    "lat": 43.6462,
+    "lon": -70.3083
+  },
+  "mvy": {
+    "lat": 41.3915,
+    "lon": -70.6145
+  },
+  "martha's vineyard airport, ma": {
+    "lat": 41.3915,
+    "lon": -70.6145
+  },
+  "ack": {
+    "lat": 41.2531,
+    "lon": -70.0603
+  },
+  "nantucket memorial airport, ma": {
+    "lat": 41.2531,
+    "lon": -70.0603
+  },
+  "hyannis": {
+    "lat": 41.6719,
+    "lon": -70.2966
+  },
+  "barnstable municipal airport, hyannis, ma": {
+    "lat": 41.6719,
+    "lon": -70.2966
+  },
+  "chatham": {
+    "lat": 41.3933,
+    "lon": -69.9933
+  },
+  "bhk": {
+    "lat": 42.0642,
+    "lon": -70.9169
+  },
+  "norwood": {
+    "lat": 42.1902,
+    "lon": -71.1912
+  },
+  "owd": {
+    "lat": 42.1902,
+    "lon": -71.1912
+  },
+  "tew": {
+    "lat": 42.3108,
+    "lon": -71.4093
+  },
+  "bedford hanscom": {
+    "lat": 42.4693,
+    "lon": -71.2859
+  },
+  "pbi": {
+    "lat": 26.6832,
+    "lon": -80.0953
+  },
+  "palm beach international, fl": {
+    "lat": 26.6832,
+    "lon": -80.0953
+  },
+  "fll": {
+    "lat": 26.0742,
+    "lon": -80.151
+  },
+  "fort lauderdale hollywood international, fl": {
+    "lat": 26.0742,
+    "lon": -80.151
+  },
+  "mia": {
+    "lat": 25.7959,
+    "lon": -80.287
+  },
+  "opf": {
+    "lat": 25.9069,
+    "lon": -80.2408
+  },
+  "miami-opa locka executive, fl": {
+    "lat": 25.9069,
+    "lon": -80.2408
+  },
+  "pbi - oga airport": {
+    "lat": 26.6832,
+    "lon": -80.0953
+  },
+  "pbi-off airport": {
+    "lat": 26.6832,
+    "lon": -80.0953
+  },
+  "eyw": {
+    "lat": 24.5564,
+    "lon": -81.7603
+  },
+  "key west international, fl": {
+    "lat": 24.5564,
+    "lon": -81.7603
+  },
+  "srq": {
+    "lat": 27.3954,
+    "lon": -82.5579
+  },
+  "sarasota bradenton international, fl": {
+    "lat": 27.3954,
+    "lon": -82.5579
+  },
+  "gnv": {
+    "lat": 29.6961,
+    "lon": -82.2717
+  },
+  "gainesville regional, fl": {
+    "lat": 29.6961,
+    "lon": -82.2717
+  },
+  "tlh": {
+    "lat": 30.3965,
+    "lon": -84.3506
+  },
+  "tallahassee international, fl": {
+    "lat": 30.3965,
+    "lon": -84.3506
+  },
+  "pns": {
+    "lat": 30.4744,
+    "lon": -87.1906
+  },
+  "pensacola international, fl": {
+    "lat": 30.4744,
+    "lon": -87.1906
+  },
+  "vps": {
+    "lat": 30.4833,
+    "lon": -86.5254
+  },
+  "destin-fort walton beach, fl": {
+    "lat": 30.4833,
+    "lon": -86.5254
+  },
+  "dab": {
+    "lat": 29.1799,
+    "lon": -81.0581
+  },
+  "new": {
+    "lat": 30.0428,
+    "lon": -90.0353
+  },
+  "new orleans international, la": {
+    "lat": 30.0428,
+    "lon": -90.0353
+  },
+  "msy": {
+    "lat": 30.0062,
+    "lon": -90.2573
+  },
+  "new orleans msu": {
+    "lat": 30.0062,
+    "lon": -90.2573
+  },
+  "tvc": {
+    "lat": 44.7414,
+    "lon": -85.5821
+  },
+  "tc, mi": {
+    "lat": 44.7414,
+    "lon": -85.5821
+  },
+  "sbf": {
+    "lat": 33.9947,
+    "lon": -118.4692
+  },
+  "santa monica, ca": {
+    "lat": 33.9947,
+    "lon": -118.4692
+  },
+  "lzu": {
+    "lat": 33.8114,
+    "lon": -84.0088
+  },
+  "lawrenceville, ga": {
+    "lat": 33.8114,
+    "lon": -84.0088
+  },
+  "pbg": {
+    "lat": 44.6509,
+    "lon": -73.4706
+  },
+  "plattsburgh, ny": {
+    "lat": 44.6509,
+    "lon": -73.4706
+  },
+  "bgm": {
+    "lat": 42.2066,
+    "lon": -75.9797
+  },
+  "binghamton, ny": {
+    "lat": 42.2066,
+    "lon": -75.9797
+  },
+  "elm": {
+    "lat": 42.0912,
+    "lon": -76.8917
+  },
+  "elmira, ny": {
+    "lat": 42.0912,
+    "lon": -76.8917
+  },
+  "art": {
+    "lat": 43.9965,
+    "lon": -75.7406
+  },
+  "utica, ny": {
+    "lat": 43.9965,
+    "lon": -75.7406
+  },
+  "burbank": {
+    "lat": 34.2006,
+    "lon": -118.3585
+  },
+  "clt": {
+    "lat": 35.2144,
+    "lon": -80.9473
+  },
+  "charlotte douglas": {
+    "lat": 35.2144,
+    "lon": -80.9473
+  },
+  "sat": {
+    "lat": 29.5337,
+    "lon": -98.4698
+  },
+  "aus": {
+    "lat": 30.1945,
+    "lon": -97.6699
+  },
+  "austin bergstrom": {
+    "lat": 30.1945,
+    "lon": -97.6699
+  },
+  "iqt": {
+    "lat": 41.5405,
+    "lon": -93.6578
+  },
+  "alaska": {
+    "lat": 61.1878,
+    "lon": -149.8233
+  },
+  "anc": {
+    "lat": 61.1743,
+    "lon": -149.9962
+  },
+  "anchorage": {
+    "lat": 61.1743,
+    "lon": -149.9962
+  },
+  "juneau": {
+    "lat": 58.3568,
+    "lon": -134.4143
+  },
+  "jnu": {
+    "lat": 58.3568,
+    "lon": -134.4143
+  },
+  "fairbanks": {
+    "lat": 64.8038,
+    "lon": -147.8764
+  },
+  "fai": {
+    "lat": 64.8038,
+    "lon": -147.8764
+  },
+  "nome": {
+    "lat": 64.5129,
+    "lon": -165.3981
+  },
+  "ome": {
+    "lat": 64.5129,
+    "lon": -165.3981
+  },
+  "ketchikan": {
+    "lat": 55.3556,
+    "lon": -131.7143
+  },
+  "ktn": {
+    "lat": 55.3556,
+    "lon": -131.7143
+  },
+  "sitka": {
+    "lat": 57.0472,
+    "lon": -135.3611
+  },
+  "sit": {
+    "lat": 57.0472,
+    "lon": -135.3611
+  },
+  "yakutat": {
+    "lat": 59.5019,
+    "lon": -139.6701
+  },
+  "ykm": {
+    "lat": 46.5697,
+    "lon": -120.5355
+  },
+  "yakima": {
+    "lat": 46.5697,
+    "lon": -120.5355
+  },
+  "bzn": {
+    "lat": 45.777,
+    "lon": -111.151
+  },
+  "bozeman yellowstone, mt": {
+    "lat": 45.777,
+    "lon": -111.151
+  },
+  "btm": {
+    "lat": 45.9546,
+    "lon": -112.4976
+  },
+  "butte, mt": {
+    "lat": 45.9546,
+    "lon": -112.4976
+  },
+  "fca": {
+    "lat": 48.3092,
+    "lon": -114.2608
+  },
+  "kalispell, mt": {
+    "lat": 48.3092,
+    "lon": -114.2608
+  },
+  "sib": {
+    "lat": 44.7699,
+    "lon": -110.4229
+  },
+  "west yellowstone, mt": {
+    "lat": 44.7699,
+    "lon": -110.4229
+  },
+  "jac": {
+    "lat": 43.5999,
+    "lon": -110.7461
+  },
+  "jackson hole, wy": {
+    "lat": 43.5999,
+    "lon": -110.7461
+  },
+  "billings, mt": {
+    "lat": 45.8007,
+    "lon": -108.5427
+  },
+  "bil": {
+    "lat": 45.8007,
+    "lon": -108.5427
+  },
+  "gte": {
+    "lat": 64.5157,
+    "lon": -165.4505
+  },
+  "golovin, ak": {
+    "lat": 64.5157,
+    "lon": -165.4505
+  },
+  "yhz": {
+    "lat": 44.8869,
+    "lon": -63.5147
+  },
+  "halifax, canada": {
+    "lat": 44.8869,
+    "lon": -63.5147
+  },
+  "yyt": {
+    "lat": 47.5123,
+    "lon": -52.7396
+  },
+  "st johns, canada": {
+    "lat": 47.5123,
+    "lon": -52.7396
+  },
+  "yqm": {
+    "lat": 45.9492,
+    "lon": -66.5322
+  },
+  "moncton, canada": {
+    "lat": 45.9492,
+    "lon": -66.5322
+  },
+  "yqg": {
+    "lat": 42.2144,
+    "lon": -83.0364
+  },
+  "windsor, canada": {
+    "lat": 42.2144,
+    "lon": -83.0364
+  },
+  "yhm": {
+    "lat": 43.1736,
+    "lon": -79.9352
+  },
+  "hamilton, canada": {
+    "lat": 43.1736,
+    "lon": -79.9352
+  },
+  "ykz": {
+    "lat": 43.8628,
+    "lon": -79.3703
+  },
+  "toronto buttonville, canada": {
+    "lat": 43.8628,
+    "lon": -79.3703
+  },
+  "yzd": {
+    "lat": 43.6292,
+    "lon": -79.6387
+  },
+  "toronto city centre, canada": {
+    "lat": 43.6292,
+    "lon": -79.6387
+  },
+  "xsh": {
+    "lat": 43.1736,
+    "lon": -79.9352
+  },
+  "st catherines, canada": {
+    "lat": 43.1169,
+    "lon": -79.0707
+  },
+  "cyow": {
+    "lat": 45.3225,
+    "lon": -75.6652
+  },
+  "cyhz": {
+    "lat": 44.8869,
+    "lon": -63.5147
+  },
+  "cyyt": {
+    "lat": 47.5123,
+    "lon": -52.7396
+  },
+  "cyqm": {
+    "lat": 45.9492,
+    "lon": -66.5322
+  },
+  "cyqg": {
+    "lat": 42.2144,
+    "lon": -83.0364
+  },
+  "cyhm": {
+    "lat": 43.1736,
+    "lon": -79.9352
+  },
+  "cykz": {
+    "lat": 43.8628,
+    "lon": -79.3703
+  },
+  "cyzd": {
+    "lat": 43.6292,
+    "lon": -79.6387
+  },
+  "cyam": {
+    "lat": 48.6594,
+    "lon": -86.8675
+  },
+  "marathon, canada": {
+    "lat": 48.6594,
+    "lon": -86.8675
+  },
+  "cypl": {
+    "lat": 49.8086,
+    "lon": -84.5067
+  },
+  "pickle lake, canada": {
+    "lat": 49.8086,
+    "lon": -84.5067
+  },
+  "cyfb": {
+    "lat": 63.7641,
+    "lon": -68.5153
+  },
+  "iqaluit, canada": {
+    "lat": 63.7641,
+    "lon": -68.5153
+  },
+  "cycb": {
+    "lat": 52.4622,
+    "lon": -106.685
+  },
+  "nipawin, canada": {
+    "lat": 52.4622,
+    "lon": -106.685
+  },
+  "cyxe": {
+    "lat": 52.2436,
+    "lon": -108.2492
+  },
+  "saskatoon, canada": {
+    "lat": 52.2436,
+    "lon": -108.2492
+  },
+  "cyqr": {
+    "lat": 50.4316,
+    "lon": -104.666
+  },
+  "regina, canada": {
+    "lat": 50.4316,
+    "lon": -104.666
+  },
+  "cyeg": {
+    "lat": 53.3097,
+    "lon": -113.5801
+  },
+  "edmonton, canada": {
+    "lat": 53.3097,
+    "lon": -113.5801
+  },
+  "cyyc": {
+    "lat": 51.1139,
+    "lon": -114.0196
+  },
+  "calgary, canada": {
+    "lat": 51.1139,
+    "lon": -114.0196
+  },
+  "cyvr": {
+    "lat": 49.1967,
+    "lon": -123.1815
+  },
+  "cywg": {
+    "lat": 49.9023,
+    "lon": -97.2348
+  },
+  "winnipeg, canada": {
+    "lat": 49.9023,
+    "lon": -97.2348
+  },
+  "cyul": {
+    "lat": 45.4709,
+    "lon": -73.7432
+  },
+  "cyqt": {
+    "lat": 48.6182,
+    "lon": -89.3218
+  },
+  "thunder bay, canada": {
+    "lat": 48.6182,
+    "lon": -89.3218
+  },
+  "cyfz": {
+    "lat": 44.8869,
+    "lon": -63.5147
+  },
+  "cyyz": {
+    "lat": 43.6777,
+    "lon": -79.6248
+  },
+  "cype": {
+    "lat": 47.4596,
+    "lon": -53.2146
+  },
+  "gander, canada": {
+    "lat": 48.9519,
+    "lon": -54.5622
+  },
+  "cyqx": {
+    "lat": 48.9519,
+    "lon": -54.5622
+  },
+  "goose bay, canada": {
+    "lat": 53.3132,
+    "lon": -60.3848
+  },
+  "cygo": {
+    "lat": 53.3132,
+    "lon": -60.3848
+  },
+  "ystn": {
+    "lat": 42.9982,
+    "lon": -82.3277
+  },
+  "sarnia, canada": {
+    "lat": 42.9982,
+    "lon": -82.3277
+  },
+  "ywr": {
+    "lat": 42.9758,
+    "lon": -81.1072
+  },
+  "london, canada": {
+    "lat": 42.9758,
+    "lon": -81.1072
+  },
+  "yxx": {
+    "lat": 49.0238,
+    "lon": -122.3558
+  },
+  "abbotsford, canada": {
+    "lat": 49.0238,
+    "lon": -122.3558
+  },
+  "ypr": {
+    "lat": 52.7674,
+    "lon": -88.5831
+  },
+  "repulse bay, canada": {
+    "lat": 62.4179,
+    "lon": -86.2266
+  },
+  "yfb": {
+    "lat": 63.7641,
+    "lon": -68.5153
+  },
+  "yqc": {
+    "lat": 58.1023,
+    "lon": -66.9938
+  },
+  "quujuaq, canada": {
+    "lat": 58.1023,
+    "lon": -66.9938
+  },
+  "yvp": {
+    "lat": 58.4577,
+    "lon": -67.5463
+  },
+  "kuujjuaq, canada": {
+    "lat": 58.4577,
+    "lon": -67.5463
+  },
+  "ykg": {
+    "lat": 61.0433,
+    "lon": -71.9572
+  },
+  "kangirsuk, canada": {
+    "lat": 61.0433,
+    "lon": -71.9572
+  },
+  "ypw": {
+    "lat": 49.2139,
+    "lon": -123.1836
+  },
+  "powell river, canada": {
+    "lat": 49.2139,
+    "lon": -123.1836
+  },
+  "ysj": {
+    "lat": 45.3147,
+    "lon": -66.4633
+  },
+  "saint john, canada": {
+    "lat": 45.3147,
+    "lon": -66.4633
+  },
+  "simb": {
+    "lat": 18.0533,
+    "lon": -63.1317
+  },
+  "simpson bay": {
+    "lat": 18.0533,
+    "lon": -63.1317
+  },
+  "marigot": {
+    "lat": 18.0671,
+    "lon": -63.0827
+  },
+  "grand case": {
+    "lat": 18.0996,
+    "lon": -63.0557
+  },
+  "sfh": {
+    "lat": 18.0996,
+    "lon": -63.0557
+  },
+  "lsm": {
+    "lat": 19.6569,
+    "lon": -63.0741
+  },
+  "lower shark bay": {
+    "lat": 19.6569,
+    "lon": -63.0741
+  },
+  "sco": {
+    "lat": 20.4437,
+    "lon": -87.2829
+  },
+  "san miguel de cozumel": {
+    "lat": 20.4437,
+    "lon": -87.2829
+  },
+  "czm": {
+    "lat": 20.4437,
+    "lon": -87.2829
+  },
+  "bangor international airport, me": {
+    "lat": 44.8074,
+    "lon": -68.7683
+  },
+  "cho airport": {
+    "lat": 38.1336,
+    "lon": -78.4419
+  },
+  "charlottesville-albemarle, va": {
+    "lat": 38.1336,
+    "lon": -78.4419
+  },
+  "cmo airport": {
+    "lat": 34.8798,
+    "lon": -106.4473
+  },
+  "cnm airport": {
+    "lat": 32.3373,
+    "lon": -104.2633
+  },
+  "cny airport": {
+    "lat": 39.6161,
+    "lon": -109.5781
+  },
+  "canyonlands field, ut": {
+    "lat": 39.6161,
+    "lon": -109.5781
+  },
+  "cps airport": {
+    "lat": 38.5712,
+    "lon": -90.0621
+  },
+  "st louis downtown, il": {
+    "lat": 38.5712,
+    "lon": -90.0621
+  },
+  "crg airport": {
+    "lat": 30.3363,
+    "lon": -81.5123
+  },
+  "craig field, fl": {
+    "lat": 30.3363,
+    "lon": -81.5123
+  },
+  "crw airport": {
+    "lat": 38.3693,
+    "lon": -81.4292
+  },
+  "yeager airport, wv": {
+    "lat": 38.3693,
+    "lon": -81.4292
+  },
+  "dal airport": {
+    "lat": 32.8471,
+    "lon": -96.8517
+  },
+  "dallas love field, tx": {
+    "lat": 32.8471,
+    "lon": -96.8517
+  },
+  "day airport": {
+    "lat": 39.7795,
+    "lon": -84.2196
+  },
+  "james m cox dayton, oh": {
+    "lat": 39.7795,
+    "lon": -84.2196
+  },
+  "dgaa airport": {
+    "lat": 5.6037,
+    "lon": -0.1668
+  },
+  "diap airport": {
+    "lat": 5.2563,
+    "lon": -3.8729
+  },
+  "abidjan, ivory coast": {
+    "lat": 5.2563,
+    "lon": -3.8729
+  },
+  "dnn airport": {
+    "lat": 33.9519,
+    "lon": -83.3193
+  },
+  "ebbR airport": {
+    "lat": 50.9014,
+    "lon": 4.4844
+  },
+  "eddm airport": {
+    "lat": 48.3538,
+    "lon": 11.7861
+  },
+  "egaa airport": {
+    "lat": 54.6575,
+    "lon": -6.2158
+  },
+  "belfast international, uk": {
+    "lat": 54.6575,
+    "lon": -6.2158
+  },
+  "egbb airport": {
+    "lat": 52.4536,
+    "lon": -1.744
+  },
+  "birmingham, uk": {
+    "lat": 52.4536,
+    "lon": -1.744
+  },
+  "ege airport": {
+    "lat": 39.2232,
+    "lon": -106.869
+  },
+  "aspen": {
+    "lat": 39.2232,
+    "lon": -106.869
+  },
+  "eggp airport": {
+    "lat": 53.2004,
+    "lon": -2.8459
+  },
+  "liverpool, uk": {
+    "lat": 53.2004,
+    "lon": -2.8459
+  },
+  "eghl airport": {
+    "lat": 51.3821,
+    "lon": -2.711
+  },
+  "bristol, uk": {
+    "lat": 51.3821,
+    "lon": -2.711
+  },
+  "egph airport": {
+    "lat": 55.9489,
+    "lon": -3.3628
+  },
+  "egsh airport": {
+    "lat": 52.6738,
+    "lon": 1.3426
+  },
+  "norwich, uk": {
+    "lat": 52.6738,
+    "lon": 1.3426
+  },
+  "egym airport": {
+    "lat": 51.2823,
+    "lon": -0.1532
+  },
+  "manston, uk": {
+    "lat": 51.2823,
+    "lon": -0.1532
+  },
+  "eidw airport": {
+    "lat": 53.4264,
+    "lon": -6.2499
+  },
+  "einn airport": {
+    "lat": 52.7019,
+    "lon": -8.9242
+  },
+  "shannon, ireland": {
+    "lat": 52.7019,
+    "lon": -8.9242
+  },
+  "eiwf airport": {
+    "lat": 53.0154,
+    "lon": -8.8366
+  },
+  "connaught, ireland": {
+    "lat": 53.0154,
+    "lon": -8.8366
+  },
+  "ekch airport": {
+    "lat": 55.618,
+    "lon": 12.6508
+  },
+  "copenhagen kastrup": {
+    "lat": 55.618,
+    "lon": 12.6508
+  },
+  "elp airport": {
+    "lat": 31.8073,
+    "lon": -106.3773
+  },
+  "el paso, tx": {
+    "lat": 31.8073,
+    "lon": -106.3773
+  },
+  "engm airport": {
+    "lat": 60.1939,
+    "lon": 11.1004
+  },
+  "oslo gardermoen": {
+    "lat": 60.1939,
+    "lon": 11.1004
+  },
+  "ess a airport": {
+    "lat": 59.6519,
+    "lon": 17.9186
+  },
+  "stockholm arlanda": {
+    "lat": 59.6519,
+    "lon": 17.9186
+  },
+  "guc airport": {
+    "lat": 38.1518,
+    "lon": -106.9321
+  },
+  "gunnison, co": {
+    "lat": 38.1518,
+    "lon": -106.9321
+  },
+  "gri airport": {
+    "lat": 41.2694,
+    "lon": -98.3319
+  },
+  "grand island, ne": {
+    "lat": 41.2694,
+    "lon": -98.3319
+  },
+  "hnl": {
+    "lat": 21.3187,
+    "lon": -157.9225
+  },
+  "hancock county-bar harbor airport, me": {
+    "lat": 44.4472,
+    "lon": -68.4175
+  },
+  "bar harbor, me": {
+    "lat": 44.4472,
+    "lon": -68.4175
+  },
+  "hancock county-bar harbor": {
+    "lat": 44.4472,
+    "lon": -68.4175
+  },
+  "ilg airport": {
+    "lat": 39.6787,
+    "lon": -75.6087
+  },
+  "wilmington, de": {
+    "lat": 39.6787,
+    "lon": -75.6087
+  },
+  "ims airport": {
+    "lat": 38.1028,
+    "lon": -86.5724
+  },
+  "evansville, in": {
+    "lat": 38.1028,
+    "lon": -86.5724
+  },
+  "jac airport": {
+    "lat": 43.5999,
+    "lon": -110.7461
+  },
+  "jan airport": {
+    "lat": 32.3113,
+    "lon": -90.4129
+  },
+  "jackson, ms": {
+    "lat": 32.3113,
+    "lon": -90.4129
+  },
+  "lex airport": {
+    "lat": 38.0369,
+    "lon": -84.5775
+  },
+  "lexington, ky": {
+    "lat": 38.0369,
+    "lon": -84.5775
+  },
+  "lit airport": {
+    "lat": 34.7294,
+    "lon": -92.2243
+  },
+  "little rock, ar": {
+    "lat": 34.7294,
+    "lon": -92.2243
+  },
+  "luk airport": {
+    "lat": 39.1039,
+    "lon": -84.4172
+  },
+  "cincinnati lunken, oh": {
+    "lat": 39.1039,
+    "lon": -84.4172
+  },
+  "mbgt airport": {
+    "lat": 13.0667,
+    "lon": -59.4833
+  },
+  "b Antigua": {
+    "lat": 13.0667,
+    "lon": -59.4833
+  },
+  "mbpv airport": {
+    "lat": 17.1167,
+    "lon": -61.7833
+  },
+  "mc n airport": {
+    "lat": 32.8367,
+    "lon": -83.6473
+  },
+  "macon, ga": {
+    "lat": 32.8367,
+    "lon": -83.6473
+  },
+  "meb airport": {
+    "lat": 34.8703,
+    "lon": -79.5856
+  },
+  "laurinburg-maxwell, nc": {
+    "lat": 34.8703,
+    "lon": -79.5856
+  },
+  "mtj airport": {
+    "lat": 38.0519,
+    "lon": -107.8943
+  },
+  "grand junction, co": {
+    "lat": 38.0519,
+    "lon": -107.8943
+  },
+  "nuq airport": {
+    "lat": 37.3639,
+    "lon": -121.9289
+  },
+  "san jose": {
+    "lat": 37.3639,
+    "lon": -121.9289
+  },
+  "oao airport": {
+    "lat": 37.3639,
+    "lon": -121.9289
+  },
+  "oau airport": {
+    "lat": 37.3639,
+    "lon": -121.9289
+  },
+  "oqi airport": {
+    "lat": 40.2591,
+    "lon": -74.6746
+  },
+  "trenton, nj": {
+    "lat": 40.2591,
+    "lon": -74.6746
+  },
+  "ortl airport": {
+    "lat": 28.5384,
+    "lon": -81.3769
+  },
+  "orlando executive": {
+    "lat": 28.5384,
+    "lon": -81.3769
+  },
+  "osu airport": {
+    "lat": 40.0865,
+    "lon": -83.0641
+  },
+  "ohio state, columbus": {
+    "lat": 40.0865,
+    "lon": -83.0641
+  },
+  "pbd airport": {
+    "lat": 26.4526,
+    "lon": -80.1186
+  },
+  "palm beach county park": {
+    "lat": 26.4526,
+    "lon": -80.1186
+  },
+  "pbf airport": {
+    "lat": 34.8128,
+    "lon": -114.5107
+  },
+  "needles, ca": {
+    "lat": 34.8128,
+    "lon": -114.5107
+  },
+  "pouc airport": {
+    "lat": 41.6306,
+    "lon": -73.8848
+  },
+  "ptk airport": {
+    "lat": 42.6614,
+    "lon": -83.4203
+  },
+  "oakland-pontiac, mi": {
+    "lat": 42.6614,
+    "lon": -83.4203
+  },
+  "rba airport": {
+    "lat": 47.1757,
+    "lon": -114.0813
+  },
+  "ril airport": {
+    "lat": 38.5425,
+    "lon": -107.728
+  },
+  "rifle, co": {
+    "lat": 38.5425,
+    "lon": -107.728
+  },
+  "rja airport": {
+    "lat": 34.2008,
+    "lon": -119.2093
+  },
+  "sab airport": {
+    "lat": 18.0443,
+    "lon": -63.0533
+  },
+  "sbg airport": {
+    "lat": 45.6276,
+    "lon": 13.0032
+  },
+  "ljubljana, slovenia": {
+    "lat": 45.6276,
+    "lon": 13.0032
+  },
+  "sbu airport": {
+    "lat": 39.3167,
+    "lon": -106.8667
+  },
+  "scf airport": {
+    "lat": 33.4228,
+    "lon": -111.7665
+  },
+  "scottsdale, az": {
+    "lat": 33.4228,
+    "lon": -111.7665
+  },
+  "sdl airport": {
+    "lat": 33.4228,
+    "lon": -111.7665
+  },
+  "shd airport": {
+    "lat": 38.2642,
+    "lon": -79.0711
+  },
+  "swo airport": {
+    "lat": 36.7424,
+    "lon": -101.3594
+  },
+  "south bend, in": {
+    "lat": 41.7087,
+    "lon": -86.3173
+  },
+  "sec airport": {
+    "lat": 17.9137,
+    "lon": -62.8453
+  },
+  "seg airport": {
+    "lat": 51.8747,
+    "lon": -0.3683
+  },
+  "seu airport": {
+    "lat": 17.4702,
+    "lon": -62.9744
+  },
+  "sfd airport": {
+    "lat": 17.9137,
+    "lon": -62.8453
+  },
+  "sfg": {
+    "lat": 18.07,
+    "lon": -63.0532
+  },
+  "sgf airport": {
+    "lat": 37.2356,
+    "lon": -93.2927
+  },
+  "springfield, mo": {
+    "lat": 37.2356,
+    "lon": -93.2927
+  },
+  "sid airport": {
+    "lat": 38.8402,
+    "lon": -104.673
+  },
+  "sun": {
+    "lat": 43.5298,
+    "lon": 116.101
+  },
+  "sun valley, id": {
+    "lat": 43.5298,
+    "lon": 116.101
+  },
+  "swa airport": {
+    "lat": 33.4352,
+    "lon": -112.0101
+  },
+  "tapa airport": {
+    "lat": 17.1167,
+    "lon": -61.7833
+  },
+  "ted airport": {
+    "lat": 64.8038,
+    "lon": -147.8764
+  },
+  "teb, ahn": {
+    "lat": 40.8475,
+    "lon": -74.0608
+  },
+  "tgb airport": {
+    "lat": 13.0667,
+    "lon": -59.4833
+  },
+  "tlg airport": {
+    "lat": 39.8634,
+    "lon": -84.229
+  },
+  "tip airport": {
+    "lat": 32.6635,
+    "lon": -97.0905
+  },
+  "tiv airport": {
+    "lat": 41.9667,
+    "lon": 12.5833
+  },
+  "tivoli, italy": {
+    "lat": 41.9667,
+    "lon": 12.5833
+  },
+  "tpc airport": {
+    "lat": -3.7758,
+    "lon": -32.4225
+  },
+  "tpf airport": {
+    "lat": 27.5174,
+    "lon": -80.3451
+  },
+  "tpl airport": {
+    "lat": 31.9488,
+    "lon": -97.4058
+  },
+  "tvs airport": {
+    "lat": 36.0127,
+    "lon": -95.8386
+  },
+  "txk airport": {
+    "lat": 33.4572,
+    "lon": -93.9912
+  },
+  "txkf airport": {
+    "lat": 32.4519,
+    "lon": -64.6986
+  },
+  "u15 airport": {
+    "lat": 34.8116,
+    "lon": -85.7217
+  },
+  "u50 airport": {
+    "lat": 41.8967,
+    "lon": -91.5097
+  },
+  "uaa airport": {
+    "lat": 61.1743,
+    "lon": -149.9962
+  },
+  "ulb airport": {
+    "lat": 63.9149,
+    "lon": -68.5143
+  },
+  "usn airport": {
+    "lat": 48.5178,
+    "lon": -122.7185
+  },
+  "uuk airport": {
+    "lat": 60.1139,
+    "lon": -149.3456
+  },
+  "vbg airport": {
+    "lat": 34.7451,
+    "lon": -120.5805
+  },
+  "vbs airport": {
+    "lat": 44.8717,
+    "lon": -73.4689
+  },
+  "vbt airport": {
+    "lat": 45.4288,
+    "lon": -70.9567
+  },
+  "vccc airport": {
+    "lat": 10.2174,
+    "lon": 103.8533
+  },
+  "vtep airport": {
+    "lat": 11.55,
+    "lon": 104.9167
+  },
+  "vtla airport": {
+    "lat": 14.5426,
+    "lon": 100.9056
+  },
+  "vtpp airport": {
+    "lat": 13.1953,
+    "lon": 100.5167
+  },
+  "wbg airport": {
+    "lat": 54.6575,
+    "lon": -6.2158
+  },
+  "wbsb airport": {
+    "lat": 17.1167,
+    "lon": -61.7833
+  },
+  "wha airport": {
+    "lat": 17.9137,
+    "lon": -62.8453
+  },
+  "wjr airport": {
+    "lat": 52.7019,
+    "lon": -8.9242
+  },
+  "wlp airport": {
+    "lat": 34.8703,
+    "lon": -79.5856
+  },
+  "wmk airport": {
+    "lat": 45.8076,
+    "lon": -68.7898
+  },
+  "wmo airport": {
+    "lat": 62.9581,
+    "lon": -149.0833
+  },
+  "wrd airport": {
+    "lat": 36.8684,
+    "lon": -86.4431
+  },
+  "wri airport": {
+    "lat": 40.0093,
+    "lon": -74.5919
+  },
+  "wro airport": {
+    "lat": 51.1026,
+    "lon": 16.8858
+  },
+  "wroclaw, poland": {
+    "lat": 51.1026,
+    "lon": 16.8858
+  },
+  "wru airport": {
+    "lat": 44.8074,
+    "lon": -68.7683
+  },
+  "wsb airport": {
+    "lat": 53.2004,
+    "lon": -2.8459
+  },
+  "wsn airport": {
+    "lat": 33.4228,
+    "lon": -111.7665
+  },
+  "wss airport": {
+    "lat": 53.4264,
+    "lon": -6.2499
+  },
+  "wtf airport": {
+    "lat": 26.4526,
+    "lon": -80.1186
+  },
+  "wtn airport": {
+    "lat": 41.067,
+    "lon": -73.7074
+  },
+  "wtx airport": {
+    "lat": 18.0443,
+    "lon": -63.0533
+  },
+  "yay airport": {
+    "lat": 47.5123,
+    "lon": -52.7396
+  },
+  "ybg airport": {
+    "lat": 45.3225,
+    "lon": -75.6652
+  },
+  "ybi airport": {
+    "lat": 44.8074,
+    "lon": -68.7683
+  },
+  "ycab airport": {
+    "lat": 45.4709,
+    "lon": -73.7432
+  },
+  "ycf airport": {
+    "lat": 49.1967,
+    "lon": -123.1815
+  },
+  "ych airport": {
+    "lat": 44.8869,
+    "lon": -63.5147
+  },
+  "ycj airport": {
+    "lat": 43.6777,
+    "lon": -79.6248
+  },
+  "ycln airport": {
+    "lat": 43.6777,
+    "lon": -79.6248
+  },
+  "ycm airport": {
+    "lat": 43.1736,
+    "lon": -79.9352
+  },
+  "ycp airport": {
+    "lat": 44.8717,
+    "lon": -73.4689
+  },
+  "ycs airport": {
+    "lat": 52.2436,
+    "lon": -108.2492
+  },
+  "ycw airport": {
+    "lat": 49.0238,
+    "lon": -122.3558
+  },
+  "ydp airport": {
+    "lat": 48.9519,
+    "lon": -54.5622
+  },
+  "yeg": {
+    "lat": 53.3097,
+    "lon": -113.5801
+  },
+  "yej airport": {
+    "lat": 57.0429,
+    "lon": -2.9007
+  },
+  "yev airport": {
+    "lat": 66.2574,
+    "lon": -86.2426
+  },
+  "yfb airport": {
+    "lat": 63.7641,
+    "lon": -68.5153
+  },
+  "yfo airport": {
+    "lat": 56.7969,
+    "lon": -94.7144
+  },
+  "ygb airport": {
+    "lat": 49.7119,
+    "lon": -54.7802
+  },
+  "ygh airport": {
+    "lat": 61.261,
+    "lon": -113.6758
+  },
+  "ygz airport": {
+    "lat": 76.4263,
+    "lon": -82.7123
+  },
+  "yhe airport": {
+    "lat": 49.2139,
+    "lon": -123.1836
+  },
+  "yip airport": {
+    "lat": 42.2279,
+    "lon": -83.6753
+  },
+  "yjur airport": {
+    "lat": 57.2333,
+    "lon": -94.7083
+  },
+  "ykd airport": {
+    "lat": 50.6237,
+    "lon": -102.4665
+  },
+  "ykn airport": {
+    "lat": 42.9585,
+    "lon": -96.7694
+  },
+  "yku airport": {
+    "lat": 48.6513,
+    "lon": -71.6329
+  },
+  "ylb airport": {
+    "lat": 54.8045,
+    "lon": -127.1795
+  },
+  "yle airport": {
+    "lat": 62.4179,
+    "lon": -86.2266
+  },
+  "ylf airport": {
+    "lat": 56.2866,
+    "lon": -101.6726
+  },
+  "ylh airport": {
+    "lat": 52.4622,
+    "lon": -106.685
+  },
+  "ylj airport": {
+    "lat": 49.6313,
+    "lon": -105.9949
+  },
+  "yll airport": {
+    "lat": 50.114,
+    "lon": -110.7325
+  },
+  "ylm airport": {
+    "lat": 48.8588,
+    "lon": -123.4419
+  },
+  "ylp airport": {
+    "lat": 55.0986,
+    "lon": -128.1022
+  },
+  "ylr airport": {
+    "lat": 49.8086,
+    "lon": -84.5067
+  },
+  "ylt airport": {
+    "lat": 50.4316,
+    "lon": -104.666
+  },
+  "ylw airport": {
+    "lat": 49.1939,
+    "lon": -119.6036
+  },
+  "ymb airport": {
+    "lat": 51.1139,
+    "lon": -114.0196
+  },
+  "ymc airport": {
+    "lat": 45.3225,
+    "lon": -75.6652
+  },
+  "ymh airport": {
+    "lat": 53.3097,
+    "lon": -113.5801
+  },
+  "ymj airport": {
+    "lat": 44.9307,
+    "lon": -93.0516
+  },
+  "ymk airport": {
+    "lat": 46.5697,
+    "lon": -120.5355
+  },
+  "ymq airport": {
+    "lat": 45.4709,
+    "lon": -73.7432
+  },
+  "ymr airport": {
+    "lat": 48.6594,
+    "lon": -86.8675
+  },
+  "yms airport": {
+    "lat": 52.2436,
+    "lon": -108.2492
+  },
+  "ymt airport": {
+    "lat": 43.6777,
+    "lon": -79.6248
+  },
+  "ymx airport": {
+    "lat": 45.4709,
+    "lon": -73.7432
+  },
+  "ymy airport": {
+    "lat": 45.4709,
+    "lon": -73.7432
+  },
+  "ymz airport": {
+    "lat": 43.6777,
+    "lon": -79.6248
+  },
+  "yna airport": {
+    "lat": 47.4219,
+    "lon": -52.7786
+  },
+  "ynm airport": {
+    "lat": 48.9519,
+    "lon": -54.5622
+  },
+  "yns airport": {
+    "lat": 45.9492,
+    "lon": -66.5322
+  },
+  "yny airport": {
+    "lat": 44.8869,
+    "lon": -63.5147
+  },
+  "yoa airport": {
+    "lat": 48.9519,
+    "lon": -54.5622
+  },
+  "yoc airport": {
+    "lat": 62.4581,
+    "lon": -136.0375
+  },
+  "yod airport": {
+    "lat": 56.2419,
+    "lon": -120.9142
+  },
+  "yoe airport": {
+    "lat": 52.8364,
+    "lon": -108.4673
+  },
+  "yof airport": {
+    "lat": 48.6594,
+    "lon": -86.8675
+  },
+  "yog airport": {
+    "lat": 49.8086,
+    "lon": -84.5067
+  },
+  "yok airport": {
+    "lat": 49.1967,
+    "lon": -123.1815
+  },
+  "ypa airport": {
+    "lat": 43.6777,
+    "lon": -79.6248
+  },
+  "ypf airport": {
+    "lat": 43.1736,
+    "lon": -79.9352
+  },
+  "ypg airport": {
+    "lat": 49.9023,
+    "lon": -97.2348
+  },
+  "ypl airport": {
+    "lat": 49.8086,
+    "lon": -84.5067
+  },
+  "ypm airport": {
+    "lat": 44.8869,
+    "lon": -63.5147
+  },
+  "ypn airport": {
+    "lat": 45.9492,
+    "lon": -66.5322
+  },
+  "ypp airport": {
+    "lat": 49.9023,
+    "lon": -97.2348
+  },
+  "ypq airport": {
+    "lat": 43.8628,
+    "lon": -79.3703
+  },
+  "ypt airport": {
+    "lat": 49.6313,
+    "lon": -105.9949
+  },
+  "ypx airport": {
+    "lat": 58.4577,
+    "lon": -67.5463
+  },
+  "ypy airport": {
+    "lat": 50.114,
+    "lon": -110.7325
+  },
+  "ypz airport": {
+    "lat": 51.1139,
+    "lon": -114.0196
+  },
+  "yqb airport": {
+    "lat": 46.7911,
+    "lon": -71.1975
+  },
+  "yqc airport": {
+    "lat": 58.1023,
+    "lon": -66.9938
+  },
+  "yqi airport": {
+    "lat": 43.8262,
+    "lon": -66.0818
+  },
+  "yqj airport": {
+    "lat": 45.3225,
+    "lon": -75.6652
+  },
+  "yqk airport": {
+    "lat": 48.6182,
+    "lon": -89.3218
+  },
+  "yqn airport": {
+    "lat": 45.4709,
+    "lon": -73.7432
+  },
+  "yqo airport": {
+    "lat": 48.9519,
+    "lon": -54.5622
+  },
+  "yqr": {
+    "lat": 50.4316,
+    "lon": -104.666
+  },
+  "yqs airport": {
+    "lat": 42.9982,
+    "lon": -82.3277
+  },
+  "yqu airport": {
+    "lat": 55.1702,
+    "lon": -118.8866
+  },
+  "yqz airport": {
+    "lat": 50.114,
+    "lon": -110.7325
+  },
+  "yra airport": {
+    "lat": 52.8364,
+    "lon": -108.4673
+  },
+  "yrb airport": {
+    "lat": 48.9519,
+    "lon": -54.5622
+  },
+  "yrg airport": {
+    "lat": 44.8869,
+    "lon": -63.5147
+  },
+  "yrj airport": {
+    "lat": 52.2436,
+    "lon": -108.2492
+  },
+  "yrn airport": {
+    "lat": 45.4709,
+    "lon": -73.7432
+  },
+  "yrr airport": {
+    "lat": 45.4709,
+    "lon": -73.7432
+  },
+  "yrs airport": {
+    "lat": 49.8086,
+    "lon": -84.5067
+  },
+  "yrx airport": {
+    "lat": 49.8086,
+    "lon": -84.5067
+  },
+  "ysa airport": {
+    "lat": 51.8747,
+    "lon": -0.3683
+  },
+  "ysb airport": {
+    "lat": 48.6182,
+    "lon": -89.3218
+  },
+  "ysc airport": {
+    "lat": 45.9492,
+    "lon": -66.5322
+  },
+  "ysd airport": {
+    "lat": 49.1967,
+    "lon": -123.1815
+  },
+  "yse airport": {
+    "lat": 45.9492,
+    "lon": -66.5322
+  },
+  "ysf airport": {
+    "lat": 52.2436,
+    "lon": -108.2492
+  },
+  "ysg airport": {
+    "lat": 56.2419,
+    "lon": -120.9142
+  },
+  "ysk airport": {
+    "lat": 62.4179,
+    "lon": -86.2266
+  },
+  "ysl airport": {
+    "lat": 52.2436,
+    "lon": -108.2492
+  },
+  "ysm airport": {
+    "lat": 56.2419,
+    "lon": -120.9142
+  },
+  "ysn airport": {
+    "lat": 45.4709,
+    "lon": -73.7432
+  },
+  "yso airport": {
+    "lat": 45.3225,
+    "lon": -75.6652
+  },
+  "ysp airport": {
+    "lat": 48.6182,
+    "lon": -89.3218
+  },
+  "yst airport": {
+    "lat": 42.9758,
+    "lon": -81.1072
+  },
+  "ysu airport": {
+    "lat": 45.9492,
+    "lon": -66.5322
+  },
+  "ysv airport": {
+    "lat": 51.1139,
+    "lon": -114.0196
+  },
+  "ysx airport": {
+    "lat": 52.4622,
+    "lon": -106.685
+  },
+  "yta airport": {
+    "lat": 44.8869,
+    "lon": -63.5147
+  },
+  "ytc airport": {
+    "lat": 45.3225,
+    "lon": -75.6652
+  },
+  "ytf airport": {
+    "lat": 48.6182,
+    "lon": -89.3218
+  },
+  "yth airport": {
+    "lat": 49.9023,
+    "lon": -97.2348
+  },
+  "ytl airport": {
+    "lat": 44.8869,
+    "lon": -63.5147
+  },
+  "ytn airport": {
+    "lat": 45.4709,
+    "lon": -73.7432
+  },
+  "yto airport": {
+    "lat": 43.6777,
+    "lon": -79.6248
+  },
+  "ytp airport": {
+    "lat": 45.4709,
+    "lon": -73.7432
+  },
+  "ytq airport": {
+    "lat": 58.4577,
+    "lon": -67.5463
+  },
+  "yts airport": {
+    "lat": 48.6182,
+    "lon": -89.3218
+  },
+  "ytt airport": {
+    "lat": 49.9023,
+    "lon": -97.2348
+  },
+  "ytu airport": {
+    "lat": 48.6182,
+    "lon": -89.3218
+  },
+  "ytx airport": {
+    "lat": 52.2436,
+    "lon": -108.2492
+  },
+  "yty airport": {
+    "lat": 53.3097,
+    "lon": -113.5801
+  },
+  "yua airport": {
+    "lat": 55.1702,
+    "lon": -118.8866
+  },
+  "yub airport": {
+    "lat": 50.114,
+    "lon": -110.7325
+  },
+  "yui airport": {
+    "lat": 44.8869,
+    "lon": -63.5147
+  },
+  "yuj airport": {
+    "lat": 44.8869,
+    "lon": -63.5147
+  },
+  "yuk airport": {
+    "lat": 49.1967,
+    "lon": -123.1815
+  },
+  "yum airport": {
+    "lat": 32.9414,
+    "lon": -111.169
+  },
+  "yum": {
+    "lat": 32.9414,
+    "lon": -111.169
+  },
+  "yun airport": {
+    "lat": 49.1967,
+    "lon": -123.1815
+  },
+  "yur airport": {
+    "lat": 44.8869,
+    "lon": -63.5147
+  },
+  "yus airport": {
+    "lat": 49.1967,
+    "lon": -123.1815
+  },
+  "yut airport": {
+    "lat": 62.4179,
+    "lon": -86.2266
+  },
+  "yux airport": {
+    "lat": 58.4577,
+    "lon": -67.5463
+  },
+  "yuy airport": {
+    "lat": 48.6182,
+    "lon": -89.3218
+  },
+  "yva airport": {
+    "lat": 44.8869,
+    "lon": -63.5147
+  },
+  "yve airport": {
+    "lat": 49.1967,
+    "lon": -123.1815
+  },
+  "yvm airport": {
+    "lat": 48.9519,
+    "lon": -54.5622
+  },
+  "yvn airport": {
+    "lat": 44.8869,
+    "lon": -63.5147
+  },
+  "yvo airport": {
+    "lat": 48.6182,
+    "lon": -89.3218
+  },
+  "yvp airport": {
+    "lat": 58.4577,
+    "lon": -67.5463
+  },
+  "yvq airport": {
+    "lat": 63.7641,
+    "lon": -68.5153
+  },
+  "yvs airport": {
+    "lat": 49.9023,
+    "lon": -97.2348
+  },
+  "yvt airport": {
+    "lat": 52.2436,
+    "lon": -108.2492
+  },
+  "yvv airport": {
+    "lat": 43.1736,
+    "lon": -79.9352
+  },
+  "ywa airport": {
+    "lat": 45.3225,
+    "lon": -75.6652
+  },
+  "ywk airport": {
+    "lat": 48.9519,
+    "lon": -54.5622
+  },
+  "ywm airport": {
+    "lat": 52.8364,
+    "lon": -108.4673
+  },
+  "yws airport": {
+    "lat": 49.1967,
+    "lon": -123.1815
+  },
+  "yxb airport": {
+    "lat": 48.6182,
+    "lon": -89.3218
+  },
+  "yxc airport": {
+    "lat": 51.1139,
+    "lon": -114.0196
+  },
+  "yxd airport": {
+    "lat": 53.3097,
+    "lon": -113.5801
+  },
+  "yxh airport": {
+    "lat": 50.114,
+    "lon": -110.7325
+  },
+  "yxp airport": {
+    "lat": 52.2436,
+    "lon": -108.2492
+  },
+  "yxs airport": {
+    "lat": 53.8884,
+    "lon": -122.801
+  },
+  "yxt airport": {
+    "lat": 49.1967,
+    "lon": -123.1815
+  },
+  "yxu airport": {
+    "lat": 42.9982,
+    "lon": -82.3277
+  },
+  "yxv airport": {
+    "lat": 49.8086,
+    "lon": -84.5067
+  },
+  "yxy airport": {
+    "lat": 60.7176,
+    "lon": -135.0673
+  },
+  "yya airport": {
+    "lat": 44.8869,
+    "lon": -63.5147
+  },
+  "yyd airport": {
+    "lat": 56.2419,
+    "lon": -120.9142
+  },
+  "yyf airport": {
+    "lat": 49.1967,
+    "lon": -123.1815
+  },
+  "yyh airport": {
+    "lat": 62.4581,
+    "lon": -136.0375
+  },
+  "yyj": {
+    "lat": 48.6469,
+    "lon": -123.4256
+  },
+  "yyl airport": {
+    "lat": 49.9023,
+    "lon": -97.2348
+  },
+  "yyn airport": {
+    "lat": 50.114,
+    "lon": -110.7325
+  },
+  "yyq airport": {
+    "lat": 53.3132,
+    "lon": -60.3848
+  },
+  "yyr airport": {
+    "lat": 52.7674,
+    "lon": -88.5831
+  },
+  "yys airport": {
+    "lat": 44.8869,
+    "lon": -63.5147
+  },
+  "yze airport": {
+    "lat": 46.7911,
+    "lon": -71.1975
+  },
+  "yzf airport": {
+    "lat": 62.4581,
+    "lon": -136.0375
+  },
+  "yzr airport": {
+    "lat": 42.9982,
+    "lon": -82.3277
+  },
+  "yzs airport": {
+    "lat": 44.8869,
+    "lon": -63.5147
+  },
+  "yzu airport": {
+    "lat": 53.3097,
+    "lon": -113.5801
+  },
+  "yzy airport": {
+    "lat": 49.8086,
+    "lon": -84.5067
+  },
+  "zbm airport": {
+    "lat": 45.9492,
+    "lon": -66.5322
+  },
+  "zdw airport": {
+    "lat": 41.067,
+    "lon": -73.7074
+  },
+  "zea airport": {
+    "lat": 48.6182,
+    "lon": -89.3218
+  },
+  "zed airport": {
+    "lat": 45.4709,
+    "lon": -73.7432
+  },
+  "zee airport": {
+    "lat": 46.7911,
+    "lon": -71.1975
+  },
+  "zej airport": {
+    "lat": 52.2436,
+    "lon": -108.2492
+  },
+  "zen airport": {
+    "lat": 43.8628,
+    "lon": -79.3703
+  },
+  "zes airport": {
+    "lat": 44.8869,
+    "lon": -63.5147
+  },
+  "zff airport": {
+    "lat": 44.8869,
+    "lon": -63.5147
+  },
+  "zfi airport": {
+    "lat": 42.9982,
+    "lon": -82.3277
+  },
+  "zfj airport": {
+    "lat": 47.5123,
+    "lon": -52.7396
+  },
+  "zfm airport": {
+    "lat": 50.114,
+    "lon": -110.7325
+  },
+  "zfs airport": {
+    "lat": 45.9492,
+    "lon": -66.5322
+  },
+  "zfv airport": {
+    "lat": 42.9982,
+    "lon": -82.3277
+  },
+  "zfw airport": {
+    "lat": 49.0238,
+    "lon": -122.3558
+  },
+  "zfy airport": {
+    "lat": 52.2436,
+    "lon": -108.2492
+  },
+  "zgf airport": {
+    "lat": 49.1967,
+    "lon": -123.1815
+  },
+  "zgi airport": {
+    "lat": 49.9023,
+    "lon": -97.2348
+  },
+  "zgk airport": {
+    "lat": 45.4709,
+    "lon": -73.7432
+  },
+  "zgl airport": {
+    "lat": 49.1967,
+    "lon": -123.1815
+  },
+  "zgm airport": {
+    "lat": 52.2436,
+    "lon": -108.2492
+  },
+  "zgp airport": {
+    "lat": 48.6182,
+    "lon": -89.3218
+  },
+  "zhp airport": {
+    "lat": 49.1967,
+    "lon": -123.1815
+  },
+  "zht airport": {
+    "lat": 45.3225,
+    "lon": -75.6652
+  },
+  "zhu airport": {
+    "lat": 43.6777,
+    "lon": -79.6248
+  },
+  "zik airport": {
+    "lat": 43.8628,
+    "lon": -79.3703
+  },
+  "zil airport": {
+    "lat": 43.1736,
+    "lon": -79.9352
+  },
+  "zin airport": {
+    "lat": 45.4709,
+    "lon": -73.7432
+  },
+  "ziw airport": {
+    "lat": 45.4709,
+    "lon": -73.7432
+  },
+  "ziy airport": {
+    "lat": 52.2436,
+    "lon": -108.2492
+  },
+  "zjo airport": {
+    "lat": 45.4709,
+    "lon": -73.7432
+  },
+  "zjs airport": {
+    "lat": 47.5123,
+    "lon": -52.7396
+  },
+  "zjx airport": {
+    "lat": 45.4709,
+    "lon": -73.7432
+  },
+  "zkg airport": {
+    "lat": 44.8869,
+    "lon": -63.5147
+  },
+  "zkl airport": {
+    "lat": 45.9492,
+    "lon": -66.5322
+  },
+  "zko airport": {
+    "lat": 45.4709,
+    "lon": -73.7432
+  },
+  "zkp airport": {
+    "lat": 45.4709,
+    "lon": -73.7432
+  },
+  "zlv airport": {
+    "lat": 45.4709,
+    "lon": -73.7432
+  },
+  "zma airport": {
+    "lat": 47.5123,
+    "lon": -52.7396
+  },
+  "zmb airport": {
+    "lat": 45.9492,
+    "lon": -66.5322
+  },
+  "zmc airport": {
+    "lat": 45.4709,
+    "lon": -73.7432
+  },
+  "zme": {
+    "lat": 40.6413,
+    "lon": -73.7781
+  },
+  "zmh airport": {
+    "lat": 45.4709,
+    "lon": -73.7432
+  },
+  "zml airport": {
+    "lat": 48.6182,
+    "lon": -89.3218
+  },
+  "zmm airport": {
+    "lat": 45.4709,
+    "lon": -73.7432
+  },
+  "zmn airport": {
+    "lat": 45.4709,
+    "lon": -73.7432
+  },
+  "zmp airport": {
+    "lat": 49.1967,
+    "lon": -123.1815
+  },
+  "zmq airport": {
+    "lat": 53.3097,
+    "lon": -113.5801
+  },
+  "zmr airport": {
+    "lat": 49.1967,
+    "lon": -123.1815
+  },
+  "zmt airport": {
+    "lat": 49.0238,
+    "lon": -122.3558
+  },
+  "zmv airport": {
+    "lat": 45.4709,
+    "lon": -73.7432
+  },
+  "zmw airport": {
+    "lat": 49.0238,
+    "lon": -122.3558
+  },
+  "zmx airport": {
+    "lat": 45.4709,
+    "lon": -73.7432
+  },
+  "zmy airport": {
+    "lat": 45.4709,
+    "lon": -73.7432
+  },
+  "zmz airport": {
+    "lat": 45.4709,
+    "lon": -73.7432
+  },
+  "zna airport": {
+    "lat": 49.1967,
+    "lon": -123.1815
+  },
+  "znb airport": {
+    "lat": 49.1967,
+    "lon": -123.1815
+  },
+  "znd airport": {
+    "lat": 50.114,
+    "lon": -110.7325
+  },
+  "zne airport": {
+    "lat": 51.1139,
+    "lon": -114.0196
+  },
+  "znf airport": {
+    "lat": 49.1967,
+    "lon": -123.1815
+  },
+  "zng airport": {
+    "lat": 49.9023,
+    "lon": -97.2348
+  },
+  "znj airport": {
+    "lat": 49.1967,
+    "lon": -123.1815
+  },
+  "znl airport": {
+    "lat": 49.0238,
+    "lon": -122.3558
+  },
+  "znm airport": {
+    "lat": 49.1967,
+    "lon": -123.1815
+  },
+  "znp airport": {
+    "lat": 49.1967,
+    "lon": -123.1815
+  },
+  "znr airport": {
+    "lat": 50.114,
+    "lon": -110.7325
+  },
+  "zns airport": {
+    "lat": 49.1967,
+    "lon": -123.1815
+  },
+  "znt airport": {
+    "lat": 50.114,
+    "lon": -110.7325
+  },
+  "znu airport": {
+    "lat": 49.1967,
+    "lon": -123.1815
+  },
+  "znv airport": {
+    "lat": 49.1967,
+    "lon": -123.1815
+  },
+  "znw airport": {
+    "lat": 49.0238,
+    "lon": -122.3558
+  },
+  "zny airport": {
+    "lat": 49.1967,
+    "lon": -123.1815
+  },
+  "zoa": {
+    "lat": 41.5171,
+    "lon": -90.513
+  },
+  "zoc airport": {
+    "lat": 49.1967,
+    "lon": -123.1815
+  },
+  "zoe airport": {
+    "lat": 47.5123,
+    "lon": -52.7396
+  },
+  "zof airport": {
+    "lat": 48.9519,
+    "lon": -54.5622
+  },
+  "zog airport": {
+    "lat": 49.1967,
+    "lon": -123.1815
+  },
+  "zoj airport": {
+    "lat": 49.1967,
+    "lon": -123.1815
+  },
+  "zok airport": {
+    "lat": 45.4709,
+    "lon": -73.7432
+  },
+  "zol airport": {
+    "lat": 44.8869,
+    "lon": -63.5147
+  },
+  "zor airport": {
+    "lat": 41.5171,
+    "lon": -90.513
+  },
+  "zos airport": {
+    "lat": 49.1967,
+    "lon": -123.1815
+  },
+  "zot airport": {
+    "lat": 49.1967,
+    "lon": -123.1815
+  },
+  "zow airport": {
+    "lat": 49.1967,
+    "lon": -123.1815
+  },
+  "zpb airport": {
+    "lat": 50.114,
+    "lon": -110.7325
+  },
+  "zpc airport": {
+    "lat": 49.1967,
+    "lon": -123.1815
+  },
+  "zpe airport": {
+    "lat": 45.4709,
+    "lon": -73.7432
+  },
+  "zpf airport": {
+    "lat": 49.1967,
+    "lon": -123.1815
+  },
+  "zph airport": {
+    "lat": 49.1967,
+    "lon": -123.1815
+  },
+  "zpk airport": {
+    "lat": 49.1967,
+    "lon": -123.1815
+  },
+  "zpl airport": {
+    "lat": 49.0238,
+    "lon": -122.3558
+  },
+  "zpm airport": {
+    "lat": 49.1967,
+    "lon": -123.1815
+  },
+  "zpn airport": {
+    "lat": 49.1967,
+    "lon": -123.1815
+  },
+  "zpo airport": {
+    "lat": 52.4622,
+    "lon": -106.685
+  },
+  "zpq airport": {
+    "lat": 49.1967,
+    "lon": -123.1815
+  },
+  "zpr airport": {
+    "lat": 49.1967,
+    "lon": -123.1815
+  },
+  "zpt airport": {
+    "lat": 49.1967,
+    "lon": -123.1815
+  },
+  "zpu airport": {
+    "lat": 45.4709,
+    "lon": -73.7432
+  },
+  "zpw airport": {
+    "lat": 49.1967,
+    "lon": -123.1815
+  },
+  "zpy airport": {
+    "lat": 45.4709,
+    "lon": -73.7432
+  },
+  "zpz airport": {
+    "lat": 45.4709,
+    "lon": -73.7432
+  },
+  "zrb": {
+    "lat": 51.1139,
+    "lon": -114.0196
+  },
+  "zrf airport": {
+    "lat": 42.9982,
+    "lon": -82.3277
+  },
+  "zrg airport": {
+    "lat": 45.4709,
+    "lon": -73.7432
+  },
+  "zri airport": {
+    "lat": 49.1967,
+    "lon": -123.1815
+  },
+  "zrl airport": {
+    "lat": 43.8628,
+    "lon": -79.3703
+  },
+  "zrm airport": {
+    "lat": 52.4622,
+    "lon": -106.685
+  },
+  "zrp airport": {
+    "lat": 43.8628,
+    "lon": -79.3703
+  },
+  "zrr airport": {
+    "lat": 45.3147,
+    "lon": -66.4633
+  },
+  "zrx airport": {
+    "lat": 45.4709,
+    "lon": -73.7432
+  },
+  "zsa": {
+    "lat": 45.3147,
+    "lon": -66.4633
+  },
+  "zsb airport": {
+    "lat": 45.3147,
+    "lon": -66.4633
+  },
+  "zsc airport": {
+    "lat": 49.1967,
+    "lon": -123.1815
+  },
+  "zse airport": {
+    "lat": 49.0238,
+    "lon": -122.3558
+  },
+  "zsf airport": {
+    "lat": 49.1967,
+    "lon": -123.1815
+  },
+  "zsg airport": {
+    "lat": 45.4709,
+    "lon": -73.7432
+  },
+  "zsl airport": {
+    "lat": 49.1967,
+    "lon": -123.1815
+  },
+  "zsm airport": {
+    "lat": 49.1967,
+    "lon": -123.1815
+  },
+  "zsn airport": {
+    "lat": 45.4709,
+    "lon": -73.7432
+  },
+  "zso airport": {
+    "lat": 45.4709,
+    "lon": -73.7432
+  },
+  "zsp airport": {
+    "lat": 43.8628,
+    "lon": -79.3703
+  },
+  "zsq airport": {
+    "lat": 45.4709,
+    "lon": -73.7432
+  },
+  "zsr airport": {
+    "lat": 49.1967,
+    "lon": -123.1815
+  },
+  "zss airport": {
+    "lat": 45.9492,
+    "lon": -66.5322
+  },
+  "zst airport": {
+    "lat": 49.1967,
+    "lon": -123.1815
+  },
+  "zsu airport": {
+    "lat": 43.1736,
+    "lon": -79.9352
+  },
+  "zsv airport": {
+    "lat": 49.1967,
+    "lon": -123.1815
+  },
+  "zsx airport": {
+    "lat": 49.1967,
+    "lon": -123.1815
+  },
+  "zsy airport": {
+    "lat": 45.4709,
+    "lon": -73.7432
+  },
+  "zsz airport": {
+    "lat": 49.1967,
+    "lon": -123.1815
+  },
+  "zte airport": {
+    "lat": 42.9982,
+    "lon": -82.3277
+  },
+  "ztf airport": {
+    "lat": 41.067,
+    "lon": -73.7074
+  },
+  "ztl airport": {
+    "lat": 45.4709,
+    "lon": -73.7432
+  },
+  "ztm airport": {
+    "lat": 45.4709,
+    "lon": -73.7432
+  },
+  "ztp airport": {
+    "lat": 45.4709,
+    "lon": -73.7432
+  },
+  "ztq airport": {
+    "lat": 45.4709,
+    "lon": -73.7432
+  },
+  "ztr airport": {
+    "lat": 44.8869,
+    "lon": -63.5147
+  },
+  "ztu airport": {
+    "lat": 45.4709,
+    "lon": -73.7432
+  },
+  "ztv airport": {
+    "lat": 44.8869,
+    "lon": -63.5147
+  },
+  "ztw airport": {
+    "lat": 41.5171,
+    "lon": -90.513
+  },
+  "zty airport": {
+    "lat": 45.4709,
+    "lon": -73.7432
+  },
+  "zua airport": {
+    "lat": 45.4709,
+    "lon": -73.7432
+  },
+  "zub airport": {
+    "lat": 49.0238,
+    "lon": -122.3558
+  },
+  "zue airport": {
+    "lat": 43.6777,
+    "lon": -79.6248
+  },
+  "zuf airport": {
+    "lat": 45.4709,
+    "lon": -73.7432
+  },
+  "zug airport": {
+    "lat": 50.114,
+    "lon": -110.7325
+  },
+  "zuh airport": {
+    "lat": 49.1967,
+    "lon": -123.1815
+  },
+  "zuj airport": {
+    "lat": 49.1967,
+    "lon": -123.1815
+  },
+  "zuk airport": {
+    "lat": 49.1967,
+    "lon": -123.1815
+  },
+  "zul airport": {
+    "lat": 49.1967,
+    "lon": -123.1815
+  },
+  "zum airport": {
+    "lat": 49.1967,
+    "lon": -123.1815
+  },
+  "zuq airport": {
+    "lat": 49.1967,
+    "lon": -123.1815
+  },
+  "zur airport": {
+    "lat": 49.1967,
+    "lon": -123.1815
+  },
+  "zuu airport": {
+    "lat": 49.1967,
+    "lon": -123.1815
+  },
+  "zuv airport": {
+    "lat": 49.1967,
+    "lon": -123.1815
+  },
+  "zuw airport": {
+    "lat": 49.1967,
+    "lon": -123.1815
+  },
+  "zux airport": {
+    "lat": 49.1967,
+    "lon": -123.1815
+  },
+  "zuy airport": {
+    "lat": 49.1967,
+    "lon": -123.1815
+  },
+  "zuz airport": {
+    "lat": 49.1967,
+    "lon": -123.1815
+  },
+  "zzv": {
+    "lat": 39.9404,
+    "lon": -81.9025
+  }
+}
